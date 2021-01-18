@@ -1,0 +1,2729 @@
+<http://olympic.org/property/Women's Balance Beam>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Women's Team Sprint>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Men's Marathon>
+        <http://olympic.org/property/discipline>
+                "road" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "SambÌ_dromo" .
+
+<http://olympic.org/property/Women's 200m Butterfly>
+        <http://olympic.org/property/discipline>
+                "butterfly" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Foil Individual>
+        <http://olympic.org/property/discipline>
+                "individual" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's Cross-country>
+        <http://olympic.org/property/discipline>
+                "cycling mountain bike" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Mountain Bike Centre" .
+
+<http://olympic.org/property/Men's Canoe Single 1000m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's 800m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's 200m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Individual>
+        <http://olympic.org/property/discipline>
+                "modern pentathlon" , "archery" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "modern pentathlon" , "archery" ;
+        <http://olympic.org/property/venues>
+                "\"Deodoro Aquatics Centre" , "SambÌ_dromo" .
+
+<http://olympic.org/property/Men's Middle (75kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Women's Marathon>
+        <http://olympic.org/property/discipline>
+                "road" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "SambÌ_dromo" .
+
+<http://olympic.org/property/Men's Greco-Roman 85 kg>
+        <http://olympic.org/property/discipline>
+                "greco roman" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Finn Men>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Women's 63kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women -63 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/"Women's 10>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "000m\"" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "female" .
+
+<http://olympic.org/property/RS:X Men>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Women's 100m Hurdles>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 200m Individual Medley>
+        <http://olympic.org/property/discipline>
+                "medley" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's 400m Hurdles>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Pole Vault>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 10km>
+        <http://olympic.org/property/discipline>
+                "marathon swimming" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Fort Copacabana" .
+
+<http://olympic.org/property/Men's 4 x 100m Relay>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men -66 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's Sabre Team>
+        <http://olympic.org/property/discipline>
+                "team" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women's 400m Individual Medley>
+        <http://olympic.org/property/discipline>
+                "medley" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 94kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Men's Single Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's 62kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's Sabre Individual>
+        <http://olympic.org/property/discipline>
+                "individual" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women's 400m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women +67kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's 50km Walk>
+        <http://olympic.org/property/discipline>
+                "road" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Pontal" .
+
+<http://olympic.org/property/Men's 200m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Super Heavy (+91kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Women's Freestyle 48 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's Omnium>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Men's Decathlon>
+        <http://olympic.org/property/discipline>
+                "combined" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Light Fly (46-49kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men -80kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women's Freestyle 75 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Canoe Single (C1) Men>
+        <http://olympic.org/property/discipline>
+                "canoe slalom" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Whitewater Stadium" .
+
+<http://olympic.org/property/Men's Greco-Roman 98 kg>
+        <http://olympic.org/property/discipline>
+                "greco roman" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men -90 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's 400m Individual Medley>
+        <http://olympic.org/property/discipline>
+                "medley" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Bantam (56kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men's Sabre Individual>
+        <http://olympic.org/property/discipline>
+                "individual" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Jumping Individual>
+        <http://olympic.org/property/discipline>
+                "jumping" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "equestrian" ;
+        <http://olympic.org/property/venues>
+                "Olympic Equestrian Centre" .
+
+<http://olympic.org/property/Men -60 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/10m Air Pistol Women>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Men's High Jump>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Kayak Double 200m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Women's 69kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Men's 4 x 100m Freestyle Relay>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's Individual Time Trial>
+        <http://olympic.org/property/discipline>
+                "cycling road" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Pontal" .
+
+<http://olympic.org/property/Women's Kayak Four 500m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's Pommel Horse>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Women's 200m Backstroke>
+        <http://olympic.org/property/discipline>
+                "backstroke" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's Eight>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's Pole Vault>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Discus Throw>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Keirin>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Lightweight Men's Double Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/10m Air Pistol Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/10m Air Rifle Women>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Men's 200m Breaststroke>
+        <http://olympic.org/property/discipline>
+                "breaststroke" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Canoe Double 1000m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Women -52 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's 69kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's High Jump>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Duets>
+        <http://olympic.org/property/discipline>
+                "synchronised swimming" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Women's Individual Stroke Play>
+        <http://olympic.org/property/discipline>
+                "golf" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "golf" ;
+        <http://olympic.org/property/venues>
+                "Olympic Golf Course" .
+
+<http://olympic.org/property/Men's Welter (69kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men's 1500m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's 4 x 200m Freestyle Relay>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 100m Butterfly>
+        <http://olympic.org/property/discipline>
+                "butterfly" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Freestyle 125 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/10m Air Rifle Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Women -57kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women's Vault>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Men's Floor Exercise>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Jumping Team>
+        <http://olympic.org/property/discipline>
+                "jumping" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "equestrian" ;
+        <http://olympic.org/property/venues>
+                "Olympic Equestrian Centre" .
+
+<http://olympic.org/property/Men's Light (60kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men's Canoe Single 200m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Kayak (K1) Women>
+        <http://olympic.org/property/discipline>
+                "canoe slalom" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Whitewater Stadium" .
+
+<http://olympic.org/property/Individual All-Around>
+        <http://olympic.org/property/discipline>
+                "rhythmic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Women's 4 x 400m Relay>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Cross-country>
+        <http://olympic.org/property/discipline>
+                "cycling mountain bike" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Mountain Bike Centre" .
+
+<http://olympic.org/property/Women's 10m Platform>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Nacra 17 Mixed>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Women's Middle (69-75kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men's Individual Stroke Play>
+        <http://olympic.org/property/discipline>
+                "golf" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "golf" ;
+        <http://olympic.org/property/venues>
+                "Olympic Golf Course" .
+
+<http://olympic.org/property/Women's 100m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's 400m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's ÌäpÌ©e Team>
+        <http://olympic.org/property/discipline>
+                "team" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Kayak (K1) Men>
+        <http://olympic.org/property/discipline>
+                "canoe slalom" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Whitewater Stadium" .
+
+<http://olympic.org/property/Men's Freestyle 65 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's Triple Jump>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/49er Men>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Men's Eight>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/RS:X Women>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Men's Hammer Throw>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's 100m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Triple Jump>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 200m Butterfly>
+        <http://olympic.org/property/discipline>
+                "butterfly" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 100m Breaststroke>
+        <http://olympic.org/property/discipline>
+                "breaststroke" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's Single Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Women's 53kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Men's Freestyle 74 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's 4 x 200m Freestyle Relay>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Fly (52kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men's Synchronised 3m Springboard>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Eventing Individual>
+        <http://olympic.org/property/discipline>
+                "eventing" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "equestrian" ;
+        <http://olympic.org/property/venues>
+                "Olympic Equestrian Centre" .
+
+<http://olympic.org/property/Men's Kayak Single 200m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's 20km Walk>
+        <http://olympic.org/property/discipline>
+                "road" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Pontal" .
+
+<http://olympic.org/property/Women's +75kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's Doubles>
+        <http://olympic.org/property/discipline>
+                "tennis" , "badminton" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "tennis" , "badminton" ;
+        <http://olympic.org/property/venues>
+                "Olympic Tennis Centre" , "Riocentro - Pavilion 4" .
+
+<http://olympic.org/property/Men +100 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's 400m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Uneven Bars>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Skeet Women>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/470 Men>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Men's Rings>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Men's 3000m Steeplechase>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Keirin>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Laser Radial Women>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Lightweight Men's Four>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's Vault>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Women's Synchronised 3m Springboard>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Women's Kayak Double 500m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Women -78 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's 100m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 400m Hurdles>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 400m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 85kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women -48 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's Pair>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/25m Pistol Women>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Canoe Double (C2) Men>
+        <http://olympic.org/property/discipline>
+                "canoe slalom" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Whitewater Stadium" .
+
+<http://olympic.org/property/Group All-Around>
+        <http://olympic.org/property/discipline>
+                "rhythmic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Women's 58kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's 20km Walk>
+        <http://olympic.org/property/discipline>
+                "road" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Pontal" .
+
+<http://olympic.org/property/Men's Foil Team>
+        <http://olympic.org/property/discipline>
+                "team" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's Freestyle 57 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/25m Rapid Fire Pistol Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Women's 4 x 100m Freestyle Relay>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women -57 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's 5000m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/"Men's 10>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "000m\"" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "male" .
+
+<http://olympic.org/property/Women's 3m Springboard>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Men's Kayak Four 1000m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Dressage Team>
+        <http://olympic.org/property/discipline>
+                "dressage" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "equestrian" ;
+        <http://olympic.org/property/venues>
+                "Olympic Equestrian Centre" .
+
+<http://olympic.org/property/Men's Road Race>
+        <http://olympic.org/property/discipline>
+                "cycling road" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Fort Copacabana" .
+
+<http://olympic.org/property/Women's 800m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's Team Pursuit>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Men's 56kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Men's Individual All-Around>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Men's Shot Put>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Freestyle 53 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's Synchronised 10m Platform>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Women's Sprint>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Men's Quadruple Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's Pair>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's Four>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men -68kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women's Double Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's 50m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's 200m Breaststroke>
+        <http://olympic.org/property/discipline>
+                "breaststroke" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Javelin Throw>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 200m Backstroke>
+        <http://olympic.org/property/discipline>
+                "backstroke" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's ÌäpÌ©e Individual>
+        <http://olympic.org/property/discipline>
+                "individual" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's Synchronised 10m Platform>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Men's Heavy (91kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Eventing Team>
+        <http://olympic.org/property/discipline>
+                "eventing" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "equestrian" ;
+        <http://olympic.org/property/venues>
+                "Olympic Equestrian Centre" .
+
+<http://olympic.org/property/Women>
+        <http://olympic.org/property/discipline>
+                "basketball" , "water polo" , "beach volleyball" , "hockey" , "trampoline gymnastics" , "football" , "rugby sevens" , "handball" , "volleyball" , "triathlon" , "cycling bmx" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" , "basketball" , "gymnastics" , "volleyball" , "cycling" , "handball" , "football" , "hockey" , "triathlon" , "rugby sevens" ;
+        <http://olympic.org/property/venues>
+                "MaracanÌ£zinho" , "Beach Volleyball Arena" , "Olympic Hockey Centre" , "\"Maria Lenk Aquatics Centre" , "Olympic BMX Centre" , "Rio Olympic Arena" , "\"MineirÌ£o" , "Fort Copacabana" , "Future Arena" , "Deodoro Stadium" , "\"Carioca Arena 1" .
+
+<http://olympic.org/property/Skeet Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Women's Freestyle 69 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's Fly (48-51kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Women's Road Race>
+        <http://olympic.org/property/discipline>
+                "cycling road" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Fort Copacabana" .
+
+<http://olympic.org/property/Trap Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Women's 100m Backstroke>
+        <http://olympic.org/property/discipline>
+                "backstroke" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Freestyle 97 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's 1500m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men -81 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's Greco-Roman 59 kg>
+        <http://olympic.org/property/discipline>
+                "greco roman" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's Foil Individual>
+        <http://olympic.org/property/discipline>
+                "individual" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's Kayak Single 1000m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's 5000m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 4 x 400m Relay>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women -49kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's Parallel Bars>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Women's Kayak Single 500m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Women's Freestyle 63 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's 100m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's ÌäpÌ©e Individual>
+        <http://olympic.org/property/discipline>
+                "individual" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women's 100m Breaststroke>
+        <http://olympic.org/property/discipline>
+                "breaststroke" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 10m Platform>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Men>
+        <http://olympic.org/property/discipline>
+                "hockey" , "football" , "water polo" , "basketball" , "beach volleyball" , "rugby sevens" , "handball" , "trampoline gymnastics" , "cycling bmx" , "volleyball" , "triathlon" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" , "volleyball" , "basketball" , "football" , "hockey" , "gymnastics" , "handball" , "aquatics" , "rugby sevens" , "triathlon" ;
+        <http://olympic.org/property/venues>
+                "Future Arena" , "Carioca Arena 1" , "Fort Copacabana" , "Olympic BMX Centre" , "Beach Volleyball Arena" , "\"Maria Lenk Aquatics Centre" , "Rio Olympic Arena" , "\"MineirÌ£o" , "MaracanÌ£zinho" , "Deodoro Stadium" , "Olympic Hockey Centre" .
+
+<http://olympic.org/property/Women's 4 x 100m Relay>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's 4 x 100m Medley Relay>
+        <http://olympic.org/property/discipline>
+                "medley" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 110m Hurdles>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Teams>
+        <http://olympic.org/property/discipline>
+                "synchronised swimming" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/50m Pistol Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Women's Kayak Single 200m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Laser Men>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Men's Long Jump>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's 75kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's Heptathlon>
+        <http://olympic.org/property/discipline>
+                "combined" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Light Welter (64kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men's Sprint>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/49er FX Women>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Lightweight Women's Double Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's ÌäpÌ©e Team>
+        <http://olympic.org/property/discipline>
+                "team" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "fencing" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women -70 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/50m Rifle 3 Positions Women>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/470 Women>
+        <http://olympic.org/property/discipline>
+                "sailing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "sailing" ;
+        <http://olympic.org/property/venues>
+                "Marina da GlÌ_ria" .
+
+<http://olympic.org/property/Men's 200m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 1500m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Team>
+        <http://olympic.org/property/discipline>
+                "archery" , "artistic gymnastics" , "table tennis" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "archery" , "gymnastics" , "table tennis" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 3" , "Rio Olympic Arena" , "SambÌ_dromo" .
+
+<http://olympic.org/property/Women's Freestyle 58 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/50m Rifle Prone Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Women's Individual All-Around>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Men -73 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's Double Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Women's Long Jump>
+        <http://olympic.org/property/discipline>
+                "jumps" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Women's Discus Throw>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men's Freestyle 86 kg>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's 50m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's 48kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's Javelin Throw>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Men +80kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's Greco-Roman 66 kg>
+        <http://olympic.org/property/discipline>
+                "greco roman" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men's 77kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Men's Doubles>
+        <http://olympic.org/property/discipline>
+                "tennis" , "badminton" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "tennis" , "badminton" ;
+        <http://olympic.org/property/venues>
+                "Olympic Tennis Centre" , "Riocentro - Pavilion 4" .
+
+<http://olympic.org/property/Men's Light Heavy (81kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Men's 3m Springboard>
+        <http://olympic.org/property/discipline>
+                "diving" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Maria Lenk Aquatics Centre" .
+
+<http://olympic.org/property/Men's Team>
+        <http://olympic.org/property/discipline>
+                "table tennis" , "artistic gymnastics" , "archery" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "table tennis" , "archery" , "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 3" , "SambÌ_dromo" , "Rio Olympic Arena" .
+
+<http://olympic.org/property/Men's Kayak Double 1000m>
+        <http://olympic.org/property/discipline>
+                "canoe sprint" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "canoe" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Women's 200m Freestyle>
+        <http://olympic.org/property/discipline>
+                "freestyle" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Greco-Roman 75 kg>
+        <http://olympic.org/property/discipline>
+                "greco roman" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Men -100 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women's Individual>
+        <http://olympic.org/property/discipline>
+                "modern pentathlon" , "archery" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "modern pentathlon" , "archery" ;
+        <http://olympic.org/property/venues>
+                "\"Deodoro Aquatics Centre" , "SambÌ_dromo" .
+
+<http://olympic.org/property/Women's Omnium>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Men -58kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Men's Individual Time Trial>
+        <http://olympic.org/property/discipline>
+                "cycling road" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Pontal" .
+
+<http://olympic.org/property/Men's +105kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's 100m Butterfly>
+        <http://olympic.org/property/discipline>
+                "butterfly" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's Team Pursuit>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Women's Floor Exercise>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Mixed Doubles>
+        <http://olympic.org/property/discipline>
+                "tennis" , "badminton" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "tennis" , "badminton" ;
+        <http://olympic.org/property/venues>
+                "Olympic Tennis Centre" , "Riocentro - Pavilion 4" .
+
+<http://olympic.org/property/Women's Quadruple Sculls>
+        <http://olympic.org/property/discipline>
+                "rowing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "rowing" ;
+        <http://olympic.org/property/venues>
+                "Lagoa Stadium" .
+
+<http://olympic.org/property/Men's Horizontal Bar>
+        <http://olympic.org/property/discipline>
+                "artistic gymnastics" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "gymnastics" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Arena" .
+
+<http://olympic.org/property/Women +78 kg>
+        <http://olympic.org/property/discipline>
+                "judo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "judo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/Women -67kg>
+        <http://olympic.org/property/discipline>
+                "taekwondo" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "taekwondo" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 3" .
+
+<http://olympic.org/property/Women's 3000m Steeplechase>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Trap Women>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Women's 800m>
+        <http://olympic.org/property/discipline>
+                "track" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Dressage Individual>
+        <http://olympic.org/property/discipline>
+                "dressage" ;
+        <http://olympic.org/property/sex>
+                "mixed" ;
+        <http://olympic.org/property/sport>
+                "equestrian" ;
+        <http://olympic.org/property/venues>
+                "Olympic Equestrian Centre" .
+
+<http://olympic.org/property/Men's Greco-Roman 130 kg>
+        <http://olympic.org/property/discipline>
+                "greco roman" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "wrestling" ;
+        <http://olympic.org/property/venues>
+                "Carioca Arena 2" .
+
+<http://olympic.org/property/50m Rifle 3 Positions Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Men's 105kg>
+        <http://olympic.org/property/discipline>
+                "weightlifting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "weightlifting" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 2" .
+
+<http://olympic.org/property/Women's Light (57-60kg)>
+        <http://olympic.org/property/discipline>
+                "boxing" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "boxing" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 6" .
+
+<http://olympic.org/property/Women's Hammer Throw>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .
+
+<http://olympic.org/property/Double Trap Men>
+        <http://olympic.org/property/discipline>
+                "shooting" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "shooting" ;
+        <http://olympic.org/property/venues>
+                "Olympic Shooting Centre" .
+
+<http://olympic.org/property/Men's Team Sprint>
+        <http://olympic.org/property/discipline>
+                "cycling track" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "cycling" ;
+        <http://olympic.org/property/venues>
+                "Rio Olympic Velodrome" .
+
+<http://olympic.org/property/Men's Singles>
+        <http://olympic.org/property/discipline>
+                "table tennis" , "tennis" , "badminton" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "badminton" , "table tennis" , "tennis" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 3" , "Olympic Tennis Centre" , "Riocentro - Pavilion 4" .
+
+<http://olympic.org/property/Women's Singles>
+        <http://olympic.org/property/discipline>
+                "badminton" , "table tennis" , "tennis" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "tennis" , "badminton" , "table tennis" ;
+        <http://olympic.org/property/venues>
+                "Riocentro - Pavilion 4" , "Olympic Tennis Centre" , "Riocentro - Pavilion 3" .
+
+<http://olympic.org/property/Women's 4 x 100m Medley Relay>
+        <http://olympic.org/property/discipline>
+                "medley" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Men's 100m Backstroke>
+        <http://olympic.org/property/discipline>
+                "backstroke" ;
+        <http://olympic.org/property/sex>
+                "male" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's 10km>
+        <http://olympic.org/property/discipline>
+                "marathon swimming" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Fort Copacabana" .
+
+<http://olympic.org/property/Women's 200m Individual Medley>
+        <http://olympic.org/property/discipline>
+                "medley" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "aquatics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Aquatics Stadium" .
+
+<http://olympic.org/property/Women's Shot Put>
+        <http://olympic.org/property/discipline>
+                "throws" ;
+        <http://olympic.org/property/sex>
+                "female" ;
+        <http://olympic.org/property/sport>
+                "athletics" ;
+        <http://olympic.org/property/venues>
+                "Olympic Stadium" .

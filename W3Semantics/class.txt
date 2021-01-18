@@ -1,0 +1,30 @@
+prefix dbo: <http://dbpedia.org/ontology/>
+CONSTRUCT {?place a <http://dbpedia.org/ontology/Place>}
+where {
+?place rdf:type dbo:Place
+}
+
+
+prefix dbo: <http://dbpedia.org/ontology/>
+ASK
+where {
+?place rdf:type dbo:Place
+}
+
+prefix dbo: <http://dbpedia.org/ontology/>
+DESCRIBE <http://dbpedia.org/resource/Germany>
+
+
+prefix dbo: <http://dbpedia.org/ontology/>
+select distinct*
+where{
+?place rdf:type dbo:Place.
+Optional {?place dbo:capital ?c.}
+}
+
+prefix dbo: <http://dbpedia.org/ontology/>
+prefix dbo: <http://dbpedia.org/resource/>
+select*
+where{?person rdf:type dbo:Person.
+?person dbo:birthPlace dbr:London.
+?person dbo:deathPlace dbr:London.}

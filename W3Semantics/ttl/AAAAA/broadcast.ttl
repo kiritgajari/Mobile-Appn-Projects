@@ -1,0 +1,83 @@
+<handball>  <http://www.olympics.org#hasBroadcatingServices>
+                "canada_sport" , "cbc_sport" , "star_sports" , "match_tv" .
+
+<hockey>  <http://www.olympics.org#hasBroadcatingServices>
+                "tv3_sport" , "sony_20" , "match_tv" , "star_sports" , "Hotstart" , "16_bold" .
+
+<cycling>  <http://www.olympics.org#hasBroadcatingServices>
+                "match_tv" , "youtube" , "canada_sport" , "cbc_sport" , "dd" .
+
+<table_tennis>  <http://www.olympics.org#hasBroadcatingServices>
+                "sony_23" , "dd" , "tv3_sport" , "cbc_sport" .
+
+<equestrian>  <http://www.olympics.org#hasBroadcatingServices>
+                "sony_19" , "dd" , "12_bold" .
+
+<rugby_sevens>  <http://www.olympics.org#hasBroadcatingServices>
+                "dd" .
+
+<football>  <http://www.olympics.org#hasBroadcatingServices>
+                "dd" , "star_sports" , "sony_9" , "tv3_sport" , "Bulgaria" , "youtube" , "cbc_sport" , "match_tv" .
+
+<golf>  <http://www.olympics.org#hasBroadcatingServices>
+                "Hotstart" , "19_bold" .
+
+<triathlon>  <http://www.olympics.org#hasBroadcatingServices>
+                "27_bold" , "Hotstart" , "youtube" .
+
+<shooting>  <http://www.olympics.org#hasBroadcatingServices>
+                "canada_sport" , "tv3_sport" , "cbc_sport" , "star_sports" , "sony_18" , "sony_11" , "dd" , "Hotstart" , "espn" .
+
+<badminton>  <http://www.olympics.org#hasBroadcatingServices>
+                "sony_16" , "sony_12" .
+
+<rowing>  <http://www.olympics.org#hasBroadcatingServices>
+                "espn" , "match_tv" , "youtube" , "dd" , "star_sports" , "Hotstart" .
+
+<tennis>  <http://www.olympics.org#hasBroadcatingServices>
+                " Maracaṇ\"" .
+
+<athletics>  <http://www.olympics.org#hasBroadcatingServices>
+                "sony_6" , "14_bold" , "_Occupied_Territories\"" , "11_bold" , "Gambia" , "Hotstart" , "star_sports" , "Georgia" , "espn" , "10_bold" , "25_bold" , "canada_sport" , "_Dem_Rep\"" , "match_tv" , "cbc_sport" , "youtube" , "dd" , "tv3_sport" , "_South\"" , "sony_21" , "13_bold" .
+
+<sport>  <http://www.olympics.org#hasBroadcatingServices>
+                "Broadcasting_Services" .
+
+<archery>  <http://www.olympics.org#hasBroadcatingServices>
+                "star_sports" , "21_bold" , "canada_sport" .
+
+<wrestling>  <http://www.olympics.org#hasBroadcatingServices>
+                "Hotstart" , "23_bold" , "sony_15" , "match_tv" , "cbc_sport" , "espn" , "youtube" .
+
+<aquatics>  <http://www.olympics.org#hasBroadcatingServices>
+                "tv3_sport" , "canada_sport" , "dd" , "sony_13" , "22_bold" , "17_bold" , "sony_22" , "youtube" , "cbc_sport" , "espn" .
+
+<canada_sportoe>  <http://www.olympics.org#hasBroadcatingServices>
+                "tv3_sport" , "espn" , "18_bold" , "dd" .
+
+<fencing>  <http://www.olympics.org#hasBroadcatingServices>
+                "sony_10" , "espn" .
+
+<sailing>  <http://www.olympics.org#hasBroadcatingServices>
+                "tv3_sport" , "espn" , "dd" , "Hotstart" .
+
+<weightlifting>  <http://www.olympics.org#hasBroadcatingServices>
+                "star_sports" , "26_bold" , "20_bold" .
+
+<judo>  <http://www.olympics.org#hasBroadcatingServices>
+                "youtube" , "espn" , "15_bold" , "canada_sport" , "match_tv" .
+
+<basketball>  <http://www.olympics.org#hasBroadcatingServices>
+                "Hotstart" , "cbc_sport" .
+
+<modern_pentathlon>  <http://www.olympics.org#hasBroadcatingServices>
+                "youtube" .
+
+<volleyball>  <http://www.olympics.org#hasBroadcatingServices>
+                "Hotstart" , "match_tv" , "canada_sport" , "sony_7" , "tv3_sport" , "dd" , "_North\"" , "star_sports" , "cbc_sport" , "espn" .
+
+<taekwondo>  <http://www.olympics.org#hasBroadcatingServices>
+                " Maracaṇ\"" , "dd" , "canada_sport" .
+
+<boxing>  <http://www.olympics.org#hasBroadcatingServices>
+                "sony_17" , "espn" , "Hotstart" , "tv3_sport" , "dd" , "sony_8" , "match_tv" .

@@ -1,0 +1,799 @@
+<http://olympic.org/property/Morocco>
+        <http://olympic.org/property/code>
+                "MAR" .
+
+<http://olympic.org/property/Malta>
+        <http://olympic.org/property/code>
+                "MLT" .
+
+<http://olympic.org/property/Dominican Republic>
+        <http://olympic.org/property/code>
+                "DOM" .
+
+<http://olympic.org/property/Zimbabwe>
+        <http://olympic.org/property/code>
+                "ZIM" .
+
+<http://olympic.org/property/United States>
+        <http://olympic.org/property/code>
+                "USA" .
+
+<http://olympic.org/property/Romania>
+        <http://olympic.org/property/code>
+                "ROM" .
+
+<http://olympic.org/property/Mexico>
+        <http://olympic.org/property/code>
+                "MEX" .
+
+<http://olympic.org/property/Liechtenstein>
+        <http://olympic.org/property/code>
+                "LIE" .
+
+<http://olympic.org/property/Uganda>
+        <http://olympic.org/property/code>
+                "UGA" .
+
+<http://olympic.org/property/Venezuela>
+        <http://olympic.org/property/code>
+                "VEN" .
+
+<http://olympic.org/property/Hong Kong*>
+        <http://olympic.org/property/code>
+                "HKG" .
+
+<http://olympic.org/property/Aruba*>
+        <http://olympic.org/property/code>
+                "ARU" .
+
+<http://olympic.org/property/Spain>
+        <http://olympic.org/property/code>
+                "ESP" .
+
+<http://olympic.org/property/Gambia>
+        <http://olympic.org/property/code>
+                "GAM" .
+
+<http://olympic.org/property/Czech Republic>
+        <http://olympic.org/property/code>
+                "CZE" .
+
+<http://olympic.org/property/Turkmenistan>
+        <http://olympic.org/property/code>
+                "TKM" .
+
+<http://olympic.org/property/Costa Rica>
+        <http://olympic.org/property/code>
+                "CRC" .
+
+<http://olympic.org/property/Bahrain>
+        <http://olympic.org/property/code>
+                "BRN" .
+
+<http://olympic.org/property/Belgium>
+        <http://olympic.org/property/code>
+                "BEL" .
+
+<http://olympic.org/property/Iceland>
+        <http://olympic.org/property/code>
+                "ISL" .
+
+<http://olympic.org/property/Togo>
+        <http://olympic.org/property/code>
+                "TOG" .
+
+<http://olympic.org/property/Jamaica>
+        <http://olympic.org/property/code>
+                "JAM" .
+
+<http://olympic.org/property/Paraguay>
+        <http://olympic.org/property/code>
+                "PAR" .
+
+<http://olympic.org/property/Cote d'Ivoire>
+        <http://olympic.org/property/code>
+                "CIV" .
+
+<http://olympic.org/property/Jordan>
+        <http://olympic.org/property/code>
+                "JOR" .
+
+<http://olympic.org/property/Georgia>
+        <http://olympic.org/property/code>
+                "GEO" .
+
+<http://olympic.org/property/Mauritania>
+        <http://olympic.org/property/code>
+                "MTN" .
+
+<http://olympic.org/property/Rwanda>
+        <http://olympic.org/property/code>
+                "RWA" .
+
+<http://olympic.org/property/Guam>
+        <http://olympic.org/property/code>
+                "GUM" .
+
+<http://olympic.org/property/Djibouti>
+        <http://olympic.org/property/code>
+                "DJI" .
+
+<http://olympic.org/property/"Korea>
+        <http://olympic.org/property/code>
+                " South\"" , " North\"" .
+
+<http://olympic.org/property/Lithuania>
+        <http://olympic.org/property/code>
+                "LTU" .
+
+<http://olympic.org/property/Netherlands Antilles*>
+        <http://olympic.org/property/code>
+                "AHO" .
+
+<http://olympic.org/property/Cayman Islands*>
+        <http://olympic.org/property/code>
+                "CAY" .
+
+<http://olympic.org/property/South Africa>
+        <http://olympic.org/property/code>
+                "RSA" .
+
+<http://olympic.org/property/Armenia>
+        <http://olympic.org/property/code>
+                "ARM" .
+
+<http://olympic.org/property/Israel>
+        <http://olympic.org/property/code>
+                "ISR" .
+
+<http://olympic.org/property/Zambia>
+        <http://olympic.org/property/code>
+                "ZAM" .
+
+<http://olympic.org/property/Ireland>
+        <http://olympic.org/property/code>
+                "IRL" .
+
+<http://olympic.org/property/Italy>
+        <http://olympic.org/property/code>
+                "ITA" .
+
+<http://olympic.org/property/"Congo>
+        <http://olympic.org/property/code>
+                " Dem Rep\"" .
+
+<http://olympic.org/property/Honduras>
+        <http://olympic.org/property/code>
+                "HON" .
+
+<http://olympic.org/property/Sao Tome and Principe>
+        <http://olympic.org/property/code>
+                "STP" .
+
+<http://olympic.org/property/Puerto Rico*>
+        <http://olympic.org/property/code>
+                "PUR" .
+
+<http://olympic.org/property/Australia>
+        <http://olympic.org/property/code>
+                "AUS" .
+
+<http://olympic.org/property/Turkey>
+        <http://olympic.org/property/code>
+                "TUR" .
+
+<http://olympic.org/property/Bhutan>
+        <http://olympic.org/property/code>
+                "BHU" .
+
+<http://olympic.org/property/Nigeria>
+        <http://olympic.org/property/code>
+                "NGR" .
+
+<http://olympic.org/property/Central African Republic>
+        <http://olympic.org/property/code>
+                "CAF" .
+
+<http://olympic.org/property/Cyprus>
+        <http://olympic.org/property/code>
+                "CYP" .
+
+<http://olympic.org/property/Bahamas>
+        <http://olympic.org/property/code>
+                "BAH" .
+
+<http://olympic.org/property/Guatemala>
+        <http://olympic.org/property/code>
+                "GUA" .
+
+<http://olympic.org/property/Antigua and Barbuda>
+        <http://olympic.org/property/code>
+                "ANT" .
+
+<http://olympic.org/property/Estonia>
+        <http://olympic.org/property/code>
+                "EST" .
+
+<http://olympic.org/property/Vanuatu>
+        <http://olympic.org/property/code>
+                "VAN" .
+
+<http://olympic.org/property/Tonga>
+        <http://olympic.org/property/code>
+                "TGA" .
+
+<http://olympic.org/property/Palau>
+        <http://olympic.org/property/code>
+                "PLW" .
+
+<http://olympic.org/property/Afghanistan>
+        <http://olympic.org/property/code>
+                "AFG" .
+
+<http://olympic.org/property/Kazakhstan>
+        <http://olympic.org/property/code>
+                "KAZ" .
+
+<http://olympic.org/property/Saint Lucia>
+        <http://olympic.org/property/code>
+                "LCA" .
+
+<http://olympic.org/property/Malawi>
+        <http://olympic.org/property/code>
+                "MAW" .
+
+<http://olympic.org/property/Mauritius>
+        <http://olympic.org/property/code>
+                "MRI" .
+
+<http://olympic.org/property/Mozambique>
+        <http://olympic.org/property/code>
+                "MOZ" .
+
+<http://olympic.org/property/Guinea-Bissau>
+        <http://olympic.org/property/code>
+                "GBS" .
+
+<http://olympic.org/property/Dominica>
+        <http://olympic.org/property/code>
+                "DMA" .
+
+<http://olympic.org/property/Papua New Guinea>
+        <http://olympic.org/property/code>
+                "PNG" .
+
+<http://olympic.org/property/Singapore>
+        <http://olympic.org/property/code>
+                "SIN" .
+
+<http://olympic.org/property/Portugal>
+        <http://olympic.org/property/code>
+                "POR" .
+
+<http://olympic.org/property/Bulgaria>
+        <http://olympic.org/property/code>
+                "BUL" .
+
+<http://olympic.org/property/Nauru>
+        <http://olympic.org/property/code>
+                "NRU" .
+
+<http://olympic.org/property/Bangladesh>
+        <http://olympic.org/property/code>
+                "BAN" .
+
+<http://olympic.org/property/Slovenia>
+        <http://olympic.org/property/code>
+                "SLO" .
+
+<http://olympic.org/property/Azerbaijan>
+        <http://olympic.org/property/code>
+                "AZE" .
+
+<http://olympic.org/property/Syria>
+        <http://olympic.org/property/code>
+                "SYR" .
+
+<http://olympic.org/property/San Marino>
+        <http://olympic.org/property/code>
+                "SMR" .
+
+<http://olympic.org/property/Libya>
+        <http://olympic.org/property/code>
+                "LBA" .
+
+<http://olympic.org/property/Congo>
+        <http://olympic.org/property/code>
+                "CGO" .
+
+<http://olympic.org/property/Seychelles>
+        <http://olympic.org/property/code>
+                "SEY" .
+
+<http://olympic.org/property/Egypt>
+        <http://olympic.org/property/code>
+                "EGY" .
+
+<http://olympic.org/property/Finland>
+        <http://olympic.org/property/code>
+                "FIN" .
+
+<http://olympic.org/property/Ethiopia>
+        <http://olympic.org/property/code>
+                "ETH" .
+
+<http://olympic.org/property/Bermuda*>
+        <http://olympic.org/property/code>
+                "BER" .
+
+<http://olympic.org/property/Maldives>
+        <http://olympic.org/property/code>
+                "MDV" .
+
+<http://olympic.org/property/Angola>
+        <http://olympic.org/property/code>
+                "ANG" .
+
+<http://olympic.org/property/Comoros>
+        <http://olympic.org/property/code>
+                "COM" .
+
+<http://olympic.org/property/Botswana>
+        <http://olympic.org/property/code>
+                "BOT" .
+
+<http://olympic.org/property/Denmark>
+        <http://olympic.org/property/code>
+                "DEN" .
+
+<http://olympic.org/property/Pakistan>
+        <http://olympic.org/property/code>
+                "PAK" .
+
+<http://olympic.org/property/Namibia>
+        <http://olympic.org/property/code>
+                "NAM" .
+
+<http://olympic.org/property/Yemen>
+        <http://olympic.org/property/code>
+                "YEM" .
+
+<http://olympic.org/property/Macedonia>
+        <http://olympic.org/property/code>
+                "MKD" .
+
+<http://olympic.org/property/British Virgin Islands>
+        <http://olympic.org/property/code>
+                "IVB" .
+
+<http://olympic.org/property/Peru>
+        <http://olympic.org/property/code>
+                "PER" .
+
+<http://olympic.org/property/Croatia>
+        <http://olympic.org/property/code>
+                "CRO" .
+
+<http://olympic.org/property/Qatar>
+        <http://olympic.org/property/code>
+                "QAT" .
+
+<http://olympic.org/property/Swaziland>
+        <http://olympic.org/property/code>
+                "SWZ" .
+
+<http://olympic.org/property/Austria>
+        <http://olympic.org/property/code>
+                "AUT" .
+
+<http://olympic.org/property/Chile>
+        <http://olympic.org/property/code>
+                "CHI" .
+
+<http://olympic.org/property/Panama>
+        <http://olympic.org/property/code>
+                "PAN" .
+
+<http://olympic.org/property/Luxembourg>
+        <http://olympic.org/property/code>
+                "LUX" .
+
+<http://olympic.org/property/Liberia>
+        <http://olympic.org/property/code>
+                "LBR" .
+
+<http://olympic.org/property/Colombia>
+        <http://olympic.org/property/code>
+                "COL" .
+
+<http://olympic.org/property/Ukraine>
+        <http://olympic.org/property/code>
+                "UKR" .
+
+<http://olympic.org/property/Saint Kitts and Nevis>
+        <http://olympic.org/property/code>
+                "SKN" .
+
+<http://olympic.org/property/Andorra>
+        <http://olympic.org/property/code>
+                "AND" .
+
+<http://olympic.org/property/Tunisia>
+        <http://olympic.org/property/code>
+                "TUN" .
+
+<http://olympic.org/property/Taiwan>
+        <http://olympic.org/property/code>
+                "TPE" .
+
+<http://olympic.org/property/Kuwait>
+        <http://olympic.org/property/code>
+                "KUW" .
+
+<http://olympic.org/property/Ghana>
+        <http://olympic.org/property/code>
+                "GHA" .
+
+<http://olympic.org/property/Senegal>
+        <http://olympic.org/property/code>
+                "SEN" .
+
+<http://olympic.org/property/Eritrea>
+        <http://olympic.org/property/code>
+                "ERI" .
+
+<http://olympic.org/property/Cook Islands>
+        <http://olympic.org/property/code>
+                "COK" .
+
+<http://olympic.org/property/Argentina>
+        <http://olympic.org/property/code>
+                "ARG" .
+
+<http://olympic.org/property/Brunei>
+        <http://olympic.org/property/code>
+                "BRU" .
+
+<http://olympic.org/property/Lebanon>
+        <http://olympic.org/property/code>
+                "LIB" .
+
+<http://olympic.org/property/Serbia>
+        <http://olympic.org/property/code>
+                "SCG" .
+
+<http://olympic.org/property/China>
+        <http://olympic.org/property/code>
+                "CHN" .
+
+<http://olympic.org/property/Laos>
+        <http://olympic.org/property/code>
+                "LAO" .
+
+<http://olympic.org/property/Oman>
+        <http://olympic.org/property/code>
+                "OMA" .
+
+<http://olympic.org/property/Latvia>
+        <http://olympic.org/property/code>
+                "LAT" .
+
+<http://olympic.org/property/Vietnam>
+        <http://olympic.org/property/code>
+                "VIE" .
+
+<http://olympic.org/property/Guyana>
+        <http://olympic.org/property/code>
+                "GUY" .
+
+<http://olympic.org/property/Tanzania>
+        <http://olympic.org/property/code>
+                "TAN" .
+
+<http://olympic.org/property/Malaysia>
+        <http://olympic.org/property/code>
+                "MAS" .
+
+<http://olympic.org/property/Russia>
+        <http://olympic.org/property/code>
+                "RUS" .
+
+<http://olympic.org/property/Cape Verde>
+        <http://olympic.org/property/code>
+                "CPV" .
+
+<http://olympic.org/property/Burundi>
+        <http://olympic.org/property/code>
+                "BDI" .
+
+<http://olympic.org/property/Micronesia>
+        <http://olympic.org/property/code>
+                "FSM" .
+
+<http://olympic.org/property/Niger>
+        <http://olympic.org/property/code>
+                "NIG" .
+
+<http://olympic.org/property/Canada>
+        <http://olympic.org/property/code>
+                "CAN" .
+
+<http://olympic.org/property/Moldova>
+        <http://olympic.org/property/code>
+                "MDA" .
+
+<http://olympic.org/property/Belarus>
+        <http://olympic.org/property/code>
+                "BLR" .
+
+<http://olympic.org/property/Brazil>
+        <http://olympic.org/property/code>
+                "BRA" .
+
+<http://olympic.org/property/American Samoa*>
+        <http://olympic.org/property/code>
+                "ASA" .
+
+<http://olympic.org/property/Slovakia>
+        <http://olympic.org/property/code>
+                "SVK" .
+
+<http://olympic.org/property/East Timor (Timor-Leste)>
+        <http://olympic.org/property/code>
+                "TLS" .
+
+<http://olympic.org/property/Nepal>
+        <http://olympic.org/property/code>
+                "NEP" .
+
+<http://olympic.org/property/Suriname>
+        <http://olympic.org/property/code>
+                "SUR" .
+
+<http://olympic.org/property/Haiti>
+        <http://olympic.org/property/code>
+                "HAI" .
+
+<http://olympic.org/property/Guinea>
+        <http://olympic.org/property/code>
+                "GUI" .
+
+<http://olympic.org/property/Somalia>
+        <http://olympic.org/property/code>
+                "SOM" .
+
+<http://olympic.org/property/Saudi Arabia>
+        <http://olympic.org/property/code>
+                "KSA" .
+
+<http://olympic.org/property/Japan>
+        <http://olympic.org/property/code>
+                "JPN" .
+
+<http://olympic.org/property/Netherlands>
+        <http://olympic.org/property/code>
+                "NED" .
+
+<http://olympic.org/property/Uzbekistan>
+        <http://olympic.org/property/code>
+                "UZB" .
+
+<http://olympic.org/property/Algeria>
+        <http://olympic.org/property/code>
+                "ALG" .
+
+<http://olympic.org/property/Gabon>
+        <http://olympic.org/property/code>
+                "GAB" .
+
+<http://olympic.org/property/Norway>
+        <http://olympic.org/property/code>
+                "NOR" .
+
+<http://olympic.org/property/Burma>
+        <http://olympic.org/property/code>
+                "MYA" .
+
+<http://olympic.org/property/Philippines>
+        <http://olympic.org/property/code>
+                "PHI" .
+
+<http://olympic.org/property/Albania>
+        <http://olympic.org/property/code>
+                "ALB" .
+
+<http://olympic.org/property/Equatorial Guinea>
+        <http://olympic.org/property/code>
+                "GEQ" .
+
+<http://olympic.org/property/Tajikistan>
+        <http://olympic.org/property/code>
+                "TJK" .
+
+<http://olympic.org/property/Cuba>
+        <http://olympic.org/property/code>
+                "CUB" .
+
+<http://olympic.org/property/Iran>
+        <http://olympic.org/property/code>
+                "IRI" .
+
+<http://olympic.org/property/Sweden>
+        <http://olympic.org/property/code>
+                "SWE" .
+
+<http://olympic.org/property/India>
+        <http://olympic.org/property/code>
+                "IND" .
+
+<http://olympic.org/property/Barbados>
+        <http://olympic.org/property/code>
+                "BAR" .
+
+<http://olympic.org/property/Mongolia>
+        <http://olympic.org/property/code>
+                "MGL" .
+
+<http://olympic.org/property/Lesotho>
+        <http://olympic.org/property/code>
+                "LES" .
+
+<http://olympic.org/property/Saint Vincent and the Grenadines>
+        <http://olympic.org/property/code>
+                "VIN" .
+
+<http://olympic.org/property/Grenada>
+        <http://olympic.org/property/code>
+                "GRN" .
+
+<http://olympic.org/property/Sierra Leone>
+        <http://olympic.org/property/code>
+                "SLE" .
+
+<http://olympic.org/property/Uruguay>
+        <http://olympic.org/property/code>
+                "URU" .
+
+<http://olympic.org/property/El Salvador>
+        <http://olympic.org/property/code>
+                "ESA" .
+
+<http://olympic.org/property/Ecuador>
+        <http://olympic.org/property/code>
+                "ECU" .
+
+<http://olympic.org/property/Solomon Islands>
+        <http://olympic.org/property/code>
+                "SOL" .
+
+<http://olympic.org/property/Burkina Faso>
+        <http://olympic.org/property/code>
+                "BUR" .
+
+<http://olympic.org/property/Chad>
+        <http://olympic.org/property/code>
+                "CHA" .
+
+<http://olympic.org/property/New Zealand>
+        <http://olympic.org/property/code>
+                "NZL" .
+
+<http://olympic.org/property/Indonesia>
+        <http://olympic.org/property/code>
+                "INA" .
+
+<http://olympic.org/property/Greece>
+        <http://olympic.org/property/code>
+                "GRE" .
+
+<http://olympic.org/property/"Palestine>
+        <http://olympic.org/property/code>
+                " Occupied Territories\"" .
+
+<http://olympic.org/property/Kenya>
+        <http://olympic.org/property/code>
+                "KEN" .
+
+<http://olympic.org/property/Kyrgyzstan>
+        <http://olympic.org/property/code>
+                "KGZ" .
+
+<http://olympic.org/property/United Kingdom>
+        <http://olympic.org/property/code>
+                "GBR" .
+
+<http://olympic.org/property/Madagascar>
+        <http://olympic.org/property/code>
+                "MAD" .
+
+<http://olympic.org/property/Bosnia and Herzegovina>
+        <http://olympic.org/property/code>
+                "BIH" .
+
+<http://olympic.org/property/Belize>
+        <http://olympic.org/property/code>
+                "BIZ" .
+
+<http://olympic.org/property/Germany>
+        <http://olympic.org/property/code>
+                "GER" .
+
+<http://olympic.org/property/Iraq>
+        <http://olympic.org/property/code>
+                "IRQ" .
+
+<http://olympic.org/property/Virgin Islands*>
+        <http://olympic.org/property/code>
+                "ISV" .
+
+<http://olympic.org/property/Trinidad and Tobago>
+        <http://olympic.org/property/code>
+                "TRI" .
+
+<http://olympic.org/property/United Arab Emirates>
+        <http://olympic.org/property/code>
+                "UAE" .
+
+<http://olympic.org/property/Poland>
+        <http://olympic.org/property/code>
+                "POL" .
+
+<http://olympic.org/property/Hungary>
+        <http://olympic.org/property/code>
+                "HUN" .
+
+<http://olympic.org/property/France>
+        <http://olympic.org/property/code>
+                "FRA" .
+
+<http://olympic.org/property/Benin>
+        <http://olympic.org/property/code>
+                "BEN" .
+
+<http://olympic.org/property/Sudan>
+        <http://olympic.org/property/code>
+                "SUD" .
+
+<http://olympic.org/property/Nicaragua>
+        <http://olympic.org/property/code>
+                "NCA" .
+
+<http://olympic.org/property/Cameroon>
+        <http://olympic.org/property/code>
+                "CMR" .
+
+<http://olympic.org/property/Switzerland>
+        <http://olympic.org/property/code>
+                "SUI" .
+
+<http://olympic.org/property/Samoa>
+        <http://olympic.org/property/code>
+                "SAM" .
+
+<http://olympic.org/property/Cambodia>
+        <http://olympic.org/property/code>
+                "CAM" .
+
+<http://olympic.org/property/Fiji>
+        <http://olympic.org/property/code>
+                "FIJ" .
+
+<http://olympic.org/property/Monaco>
+        <http://olympic.org/property/code>
+                "MON" .
+
+<http://olympic.org/property/Thailand>
+        <http://olympic.org/property/code>
+                "THA" .
+
+<http://olympic.org/property/Mali>
+        <http://olympic.org/property/code>
+                "MLI" .
+
+<http://olympic.org/property/Sri Lanka>
+        <http://olympic.org/property/code>
+                "SRI" .
+
+<http://olympic.org/property/Bolivia>
+        <http://olympic.org/property/code>
+                "BOL" .

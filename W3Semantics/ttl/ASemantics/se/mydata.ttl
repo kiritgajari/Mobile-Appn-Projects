@@ -1,0 +1,379 @@
+<http://gk.org/property/Sharla Cheung>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "The Romancing Star III" , "Lee Rock II" , "Faithfully Yours" .
+
+<http://gk.org/property/Brigitte Lin>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "The Three Swordsmen" , "Fantasy Mission Force" , "Peking Opera Blues" .
+
+<http://gk.org/property/Christine Kuo>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Over Run Over" , "Ghetto Justice II" , "Don Juan DeMercado" .
+
+<http://gk.org/property/Kiki Sheung>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "The Money-Maker Recipe" , "Rosy Business" , "The Yang's Saga" , "Brick Slaves" , "The Family Link" , "Sisters of Pearl" , "The Good Old Days (TV series)" , "When Easterly Showers Fall on the Sunny West" , "The Last Breakthrough" , "Two of a Kind (HK TV series)" , "The Comeback Clan" .
+
+<http://gk.org/property/Halina Tam>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Sweetness in the Salt" , "ICAC Investigators 2009" , "The King of Snooker" .
+
+<http://gk.org/property/Yang Yang (actor)>
+        <http://gk.org/property/country>
+                "People's Republic of China" , "China" ;
+        <http://gk.org/property/movie>  "The Dream of Red Mansions (2010 TV series)" , "The Lost Tomb" .
+
+<http://gk.org/property/Thibault VinÃ§on>
+        <http://gk.org/property/country>
+                "Haiti" ;
+        <http://gk.org/property/movie>  "Murder in Pacot" .
+
+<http://gk.org/property/Ma Tianyu>
+        <http://gk.org/property/country>
+                "China" ;
+        <http://gk.org/property/movie>  "Ice Fantasy" , "Sisters Over Flowers (Chinese TV series)" .
+
+<http://gk.org/property/Yasuko Matsuyuki>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Vexille" , "Helen the Baby Fox" .
+
+<http://gk.org/property/Gigi Lai>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "The Charm Beneath" , "Dragon in Jail" , "Shades of Truth" , "The Dance of Passion" , "Young and Dangerous 2" , "The Gem of Life" , "Life Art" , "War and Beauty" , "The Ultimate Crime Fighter" .
+
+<http://gk.org/property/James Ryan (actor)>
+        <http://gk.org/property/country>
+                "South Africa" ;
+        <http://gk.org/property/movie>  "Space Mutiny" .
+
+<http://gk.org/property/Valentina RendÃ_n>
+        <http://gk.org/property/country>
+                "Colombia" ;
+        <http://gk.org/property/movie>  "BermÃºdez (telenovela)" .
+
+<http://gk.org/property/Rinako Hirasawa>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Frog Song" , "New Tokyo Decadence â€“ The Slave" .
+
+<http://gk.org/property/Paige Chua>
+        <http://gk.org/property/country>
+                "Singapore" ;
+        <http://gk.org/property/movie>  "The Score (TV series)" , "It's a Wonderful Life (TV series)" , "Good Luck (TV series)" , "Be Happy (TV series)" , "The Dream Catchers" , "Crime Busters x 2" .
+
+<http://gk.org/property/"Song Jia (actress>
+        <http://gk.org/property/country>
+                "Falling Flowers" , "Will You Marry Me and My Family" , "On His Majesty's Secret Service" , "Once Upon a Time in Tibet" ;
+        <http://gk.org/property/movie>  " born 1980)\"" .
+
+<http://gk.org/property/Brian Trueman>
+        <http://gk.org/property/country>
+                "United Kingdom" ;
+        <http://gk.org/property/movie>  "Cockleshell Bay" , "Victor and Hugo" .
+
+<http://gk.org/property/Rin Takanashi>
+        <http://gk.org/property/country>
+                "Japan" , "Indonesia" ;
+        <http://gk.org/property/movie>  "Neo Ultra Q" , "Killers (2014 film)" .
+
+<http://gk.org/property/Ng Hui>
+        <http://gk.org/property/country>
+                "Singapore" ;
+        <http://gk.org/property/movie>  "Love Thy Neighbour (TV series)" , "The Day It Rained on Our Parade" , "My Buddy (TV series)" .
+
+<http://gk.org/property/You (actress)>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Second Virgin" .
+
+<http://gk.org/property/Johnson Lee>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Smooth Talker" , "Just Love II" , "A Pillow Case of Mystery II" , "Awfully Lawful" , "Twilight Investigation" , "Just Love" .
+
+<http://gk.org/property/Jamie Gillis>
+        <http://gk.org/property/country>
+                "United States" ;
+        <http://gk.org/property/movie>  "Wanda Whips Wall Street" .
+
+<http://gk.org/property/Nina Li (actress)>
+        <http://gk.org/property/country>
+                " the Luck & the Tycoon\"" , "Hong Kong" ;
+        <http://gk.org/property/movie>  "A Kid from Tibet" , "\"The Fun" , "Aces Go Places 5: The Terracotta Hit" , "Twin Dragons" .
+
+<http://gk.org/property/Guy Boyd (actor)>
+        <http://gk.org/property/country>
+                "United States" ;
+        <http://gk.org/property/movie>  "Eyes of Fire (film)" .
+
+<http://gk.org/property/Jacques Gamblin>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Dr. Akagi" .
+
+<http://gk.org/property/MeiMei Kuo>
+        <http://gk.org/property/country>
+                "Republic of China" ;
+        <http://gk.org/property/movie>  "Brown Sugar Macchiato" , "The Legend of Brown Sugar Chivalries" .
+
+<http://gk.org/property/Kong Lin>
+        <http://gk.org/property/country>
+                "People's Republic of China" ;
+        <http://gk.org/property/movie>  "Twin of Brothers (2011 TV series)" .
+
+<http://gk.org/property/Shinsuke Ashida>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Underworld Beauty" .
+
+<http://gk.org/property/Cameron Carr (actor)>
+        <http://gk.org/property/country>
+                "United Kingdom" ;
+        <http://gk.org/property/movie>  "A Daughter of Eve" .
+
+<http://gk.org/property/Arthur Margetson>
+        <http://gk.org/property/country>
+                "United Kingdom" ;
+        <http://gk.org/property/movie>  "The Return of Carol Deane" .
+
+<http://gk.org/property/Dylan Kuo>
+        <http://gk.org/property/country>
+                "China" , "Republic of China" , "Hong Kong" ;
+        <http://gk.org/property/movie>  "The Longest Night in Shanghai" , "Single Princesses and Blind Dates" , "The Outsiders (Taiwanese TV series)" , "Knock Knock Loving You" , "Embrace Your Shadow" .
+
+<http://gk.org/property/Minoru Chiaki>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "The Lower Depths (1957 film)" .
+
+<http://gk.org/property/Frida Hallgren>
+        <http://gk.org/property/country>
+                "Sweden" ;
+        <http://gk.org/property/movie>  "As It Is in Heaven" .
+
+<http://gk.org/property/Prudence Liew>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "On the Wrong Track" , "To Be or Not to Be (TV series)" .
+
+<http://gk.org/property/Akiho Yoshizawa>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Temptation: Eating Me" , "Fascinating Young Hostess: Sexy Thighs" .
+
+<http://gk.org/property/Meng Jia>
+        <http://gk.org/property/country>
+                "China" ;
+        <http://gk.org/property/movie>  "One and a Half Summer" .
+
+<http://gk.org/property/Isabelle Nanty>
+        <http://gk.org/property/country>
+                "France" ;
+        <http://gk.org/property/movie>  "Disco (film)" .
+
+<http://gk.org/property/Isako Washio>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Immoral Affairs" .
+
+<http://gk.org/property/Jia Hongsheng>
+        <http://gk.org/property/country>
+                "People's Republic of China" , "Cinema of China" ;
+        <http://gk.org/property/movie>  "Quitting" , "Frozen (1997 film)" .
+
+<http://gk.org/property/Rosamund Kwan>
+        <http://gk.org/property/country>
+                "Hong Kong" , "Cinema of Hong Kong" ;
+        <http://gk.org/property/movie>  "Millionaires Express" , "The Adventurers (1995 film)" , "The Magic Crane" , "The Head Hunter" , "Proud and Confident" , "Undeclared War" , "Casino Raiders" , "Gameboy Kids" , "The Banquet (1991 film)" , "The Sting (1992 film)" .
+
+<http://gk.org/property/James Deen>
+        <http://gk.org/property/country>
+                "United States" ;
+        <http://gk.org/property/movie>  "Tori Black Is Pretty Filthy" .
+
+<http://gk.org/property/Xiao Xun>
+        <http://gk.org/property/country>
+                "Republic of China" ;
+        <http://gk.org/property/movie>  "Brown Sugar Macchiato" , "The Legend of Brown Sugar Chivalries" .
+
+<http://gk.org/property/William So>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Healing Hands" .
+
+<http://gk.org/property/Robert Urquhart (actor)>
+        <http://gk.org/property/country>
+                "UK" ;
+        <http://gk.org/property/movie>  "Golden Ivory" .
+
+<http://gk.org/property/Yoshikatsu Fujiki>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "StrayDog: Kerberos Panzer Cops" .
+
+<http://gk.org/property/Michael Wong (actor)>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Beast Cops" , "City Hero" , "Treasure Hunt (1994 film)" .
+
+<http://gk.org/property/Sakurako Kaoru>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Three Naked Sisters: Lewdness" .
+
+<http://gk.org/property/Louisa Moritz>
+        <http://gk.org/property/country>
+                "West Germany" , "United States" ;
+        <http://gk.org/property/movie>  "Chained Heat" .
+
+<http://gk.org/property/Yukiji Asaoka>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Hanzo the Razor" .
+
+<http://gk.org/property/Wang Yan (actress)>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "My Fair Princess III" .
+
+<http://gk.org/property/Cheung Tat-ming>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "A Recipe for the Heart" , "Justice Sung II" .
+
+<http://gk.org/property/Fiona Xie>
+        <http://gk.org/property/country>
+                "Singapore" ;
+        <http://gk.org/property/movie>  "One Leg Kicking" , "A War Diary" , "Maggi & Me" , "Home in Toa Payoh" .
+
+<http://gk.org/property/Haruna Yabuki>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Socialite Belle Panchanne: The Wife Is a Superheroine!" .
+
+<http://gk.org/property/Felix Lok>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "The Menu" .
+
+<http://gk.org/property/Katsuo Nakamura>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Shura (film)" .
+
+<http://gk.org/property/Yuen Biao>
+        <http://gk.org/property/country>
+                "Hong Kong" , " Shanghai\"" , "Cinema of Hong Kong" , "China" ;
+        <http://gk.org/property/movie>  "Winners and Sinners" , "Real Kung Fu" , "\"Shanghai" , "A Kid from Tibet" , "Millionaires Express" , "Supermen Against the Orient" , "Wing Chun (TV series)" , "Lucky Stars" , "Shogun and Little Kitchen" , "Shaolin Wooden Men" , "Wheels on Meals" , "The Ultimate Crime Fighter" , "Turning Point (2009 action film)" , "Spiritual Kung Fu" , "The Legend Is Born: Ip Man" , "Rosa (1986 film)" , "Dragons Forever" .
+
+<http://gk.org/property/Roxy DeVille>
+        <http://gk.org/property/country>
+                "United States" ;
+        <http://gk.org/property/movie>  "The Texas Vibrator Massacre" .
+
+<http://gk.org/property/Natasha Williams (actress)>
+        <http://gk.org/property/country>
+                "United States" ;
+        <http://gk.org/property/movie>  "Esther (1999 film)" .
+
+<http://gk.org/property/Alien Huang>
+        <http://gk.org/property/country>
+                "Republic of China" ;
+        <http://gk.org/property/movie>  "Sweet Sweet Bodyguard" , "Mysterious Incredible Terminator" .
+
+<http://gk.org/property/Louis Cheung>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Come Home Love (series 2)" , "Momentary Lapse of Reason (TV series)" , "Gilded Chopsticks" , "Raising the Bar (2015 TV series)" .
+
+<http://gk.org/property/Gui Gui>
+        <http://gk.org/property/country>
+                "Republic of China" ;
+        <http://gk.org/property/movie>  "Brown Sugar Macchiato" , "Mysterious Incredible Terminator" .
+
+<http://gk.org/property/Isabelle Corey>
+        <http://gk.org/property/country>
+                "Italian language" ;
+        <http://gk.org/property/movie>  "Head of a Tyrant" .
+
+<http://gk.org/property/Li Chen (actor)>
+        <http://gk.org/property/country>
+                "China" ;
+        <http://gk.org/property/movie>  "Challenger's Alliance" .
+
+<http://gk.org/property/John Light (actor)>
+        <http://gk.org/property/country>
+                "United States" , "Germany" ;
+        <http://gk.org/property/movie>  "Investigating Sex" , "Dresden (2006 film)" .
+
+<http://gk.org/property/Minami Aoyama>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Ambiguous (film)" , "Uncle's Paradise" .
+
+<http://gk.org/property/Yoyo Chen>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Best Selling Secrets" .
+
+<http://gk.org/property/Joanne Peh>
+        <http://gk.org/property/country>
+                "Singapore" , " Like Daughter\"" ;
+        <http://gk.org/property/movie>  "The Golden Path (TV series)" , "C.L.I.F. 2" , "The Journey (trilogy series)" , "\"Like Father" , "After Hours (Singaporean TV series)" , "The Journey: A Voyage" , "The Little Nyonya" , "Love at Risk" , "The Truth (2008 TV series)" .
+
+<http://gk.org/property/RenÃ©e Faure>
+        <http://gk.org/property/country>
+                "Austria" , "France" , "East Germany" ;
+        <http://gk.org/property/movie>  "Bel Ami (1955 film)" .
+
+<http://gk.org/property/Lemon Hanazawa>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Wife Taxi: Crowded with Big Tits" , "Older Office Lady: Using Her Seductive Tongue" , "Molester's Train: Suggestive Indecent Hips" .
+
+<http://gk.org/property/Tsutomu Yamazaki>
+        <http://gk.org/property/country>
+                "Japan" ;
+        <http://gk.org/property/movie>  "Saiko no Jinsei" , "Space Battleship Yamato (2010 film)" .
+
+<http://gk.org/property/Bruce Lee>
+        <http://gk.org/property/country>
+                "Cinema of Hong Kong" , "Hong Kong" , "Cinema of South Korea" ;
+        <http://gk.org/property/movie>  "The Big Boss" , "The Kid (1950 film)" , "The Thunderstorm" , "Enter the Dragon" , "Golden Gate Girl" , "The Real Bruce Lee" .
+
+<http://gk.org/property/Wang Zi>
+        <http://gk.org/property/country>
+                "Republic of China" ;
+        <http://gk.org/property/movie>  "Brown Sugar Macchiato" , "The Legend of Brown Sugar Chivalries" .
+
+<http://gk.org/property/Lee Heung-kam>
+        <http://gk.org/property/country>
+                "Hong Kong" , " the Bad and the Ugly (1979 TV series)\"" ;
+        <http://gk.org/property/movie>  "A House Is Not a Home (TV series)" , "\"The Good" .
+
+<http://gk.org/property/Janine Chang>
+        <http://gk.org/property/country>
+                "Taiwan" ;
+        <http://gk.org/property/movie>  "Sunny Happiness" .
+
+<http://gk.org/property/Terence Siufay>
+        <http://gk.org/property/country>
+                "China" ;
+        <http://gk.org/property/movie>  "Summer Love Love" .
+
+<http://gk.org/property/Johnny Ngan>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "Virtues of Harmony II" , "Virtues of Harmony" .
+
+<http://gk.org/property/Dicky Cheung>
+        <http://gk.org/property/country>
+                "Hong Kong" ;
+        <http://gk.org/property/movie>  "The Monkey King: Quest for the Sutra" , "Kung Fu Soccer" , "The Kung Fu Scholar" .

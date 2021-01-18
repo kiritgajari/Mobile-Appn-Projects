@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#"
+     xml:base="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This is an Ontology created for web sematics project.</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restuarant</rdfs:label>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Aggregate_rating -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Aggregate_rating">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aggregate_Rating</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Menu_Type -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Menu_Type">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Menu Type</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Menu Type</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Paid -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Paid">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paid</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paid</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating"/>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating_Color -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating_Color">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rating_Color</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating_Text -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating_Text">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rating_Text</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant_Type -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant_Type">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Votes -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Votes">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vote</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vote</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#hasAddressOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#hasAddressOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person and Restaurant has address</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasAddress</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#hasMenu -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#hasMenu">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hasMenuOf</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Properties</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Properties</rdfs:label>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Address -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Address">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#City -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#City">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Country_Name"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">City</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Contact -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Contact">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contact</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Country_Code -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Country_Code">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Address"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Country_Code</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Country_Name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Country_Name">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Country_Code"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Country_Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Cusine -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Cusine">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cusine</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Email_ID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Email_ID">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Contact"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Email ID</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#LastName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#LastName">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person_Name"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Customer"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Employee"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LastName of Person</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LastName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Latitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Latitude">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Address"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Latitude</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Longitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Longitude">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Address"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Longitude</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person_Name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person_Name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Person Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Phone_Number -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Phone_Number">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Contact"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phone Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restuarant_ID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restuarant_ID">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restauarant_ID</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restuarant_Name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restuarant_Name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restaurant_Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#hasName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#hasName">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person_Name"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Customer"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of Person</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FirstName</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#paymentAccepted -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#paymentAccepted">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paymentAccepted</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#priceRange -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#priceRange">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">priceRange</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#servesCuisine -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#servesCuisine">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">serveCuisine</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#starRating -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#starRating">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">starRating</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Chef -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Chef">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Staff"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chef details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chef</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Currency -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Currency">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Currency details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Currency</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Customer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Customer">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Customer Details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Customer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Director -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Director">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Employee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Director details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Director</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Employee -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Employee">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Employee Details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Employee</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Food_Menu -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Food_Menu">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Food Menu</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Food Menu</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Manager -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Manager">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Employee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manager</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manager details</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating"/>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restaurant Details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restaurant</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Staff -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Staff">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Employee"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Staff details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Staff</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Waiter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Waiter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Staff"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waiter details</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waiter</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Neeraja -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Neeraja">
+        <rdf:type rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Customer"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FirstName of person</rdfs:comment>
+    </owl:NamedIndividual>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NegativePropertyAssertion"/>
+        <owl:sourceIndividual rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Neeraja"/>
+        <owl:assertionProperty rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#hasName"/>
+        <owl:targetValue rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"></owl:targetValue>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Pullalarevu -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Pullalarevu">
+        <rdf:type rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Person"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LastName of person</rdfs:comment>
+    </owl:NamedIndividual>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NegativePropertyAssertion"/>
+        <owl:sourceIndividual rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Pullalarevu"/>
+        <owl:assertionProperty rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#LastName"/>
+        <owl:targetValue rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"></owl:targetValue>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Swiggy -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Swiggy">
+        <rdf:type rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of Restuarant</rdfs:comment>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Zomato -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Zomato">
+        <rdf:type rdf:resource="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Restaurant"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Restaurant Name</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Zomato</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://www.semanticweb.org/neera/ontologies/2019/1/Restaurant#Rating">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rating</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Online food delivery Restaurant</rdfs:comment>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

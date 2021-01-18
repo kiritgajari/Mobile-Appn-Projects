@@ -1,0 +1,175 @@
+<http://www.olympics.org#_South">
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#sony_16>
+        <http://www.olympics.org#stream>
+                "badminton" .
+
+<http://www.olympics.org#10_bold>
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#27_bold>
+        <http://www.olympics.org#stream>
+                "triathlon" .
+
+<http://www.olympics.org#sony_10>
+        <http://www.olympics.org#stream>
+                "fencing" .
+
+<http://www.olympics.org#sony_23>
+        <http://www.olympics.org#stream>
+                "table_tennis" .
+
+<http://www.olympics.org#12_bold>
+        <http://www.olympics.org#stream>
+                "equestrian" .
+
+<http://www.olympics.org#sony_15>
+        <http://www.olympics.org#stream>
+                "wrestling" .
+
+<http://www.olympics.org#11_bold>
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#sony_22>
+        <http://www.olympics.org#stream>
+                "aquatics" .
+
+<http://www.olympics.org#canada_sport>
+        <http://www.olympics.org#stream>
+                "shooting" , "handball" , "volleyball" , "archery" , "cycling" , "judo" , "athletics" , "aquatics" , "taekwondo" .
+
+<http://www.olympics.org#espn>
+        <http://www.olympics.org#stream>
+                "canada_sportoe" , "fencing" , "boxing" , "wrestling" , "judo" , "shooting" , "volleyball" , "sailing" , "aquatics" , "rowing" , "athletics" .
+
+<http://www.olympics.org#14_bold>
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#sony_9>
+        <http://www.olympics.org#stream>
+                "football" .
+
+<http://www.olympics.org#20_bold>
+        <http://www.olympics.org#stream>
+                "weightlifting" .
+
+<http://www.olympics.org#13_bold>
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#cbc_sport>
+        <http://www.olympics.org#stream>
+                "volleyball" , "aquatics" , "wrestling" , "cycling" , "shooting" , "football" , "table_tennis" , "handball" , "athletics" , "basketball" .
+
+<http://www.olympics.org#star_sports>
+        <http://www.olympics.org#stream>
+                "weightlifting" , "archery" , "shooting" , "rowing" , "handball" , "hockey" , "football" , "volleyball" , "athletics" .
+
+<http://www.olympics.org#sony_21>
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#youtube>
+        <http://www.olympics.org#stream>
+                "cycling" , "judo" , "aquatics" , "rowing" , "modern_pentathlon" , "athletics" , "football" , "wrestling" , "triathlon" .
+
+<http://www.olympics.org#sony_19>
+        <http://www.olympics.org#stream>
+                "equestrian" .
+
+<http://www.olympics.org#dd>
+        <http://www.olympics.org#stream>
+                "volleyball" , "athletics" , "football" , "sailing" , "table_tennis" , "cycling" , "rugby_sevens" , "equestrian" , "canada_sportoe" , "aquatics" , "rowing" , "boxing" , "shooting" , "taekwondo" .
+
+<http://www.olympics.org#16_bold>
+        <http://www.olympics.org#stream>
+                "hockey" .
+
+<http://www.olympics.org#22_bold>
+        <http://www.olympics.org#stream>
+                "aquatics" .
+
+<http://www.olympics.org#sony_8>
+        <http://www.olympics.org#stream>
+                "boxing" .
+
+<http://www.olympics.org#sony_13>
+        <http://www.olympics.org#stream>
+                "aquatics" .
+
+<http://www.olympics.org#15_bold>
+        <http://www.olympics.org#stream>
+                "judo" .
+
+<http://www.olympics.org#Hotstart>
+        <http://www.olympics.org#stream>
+                "shooting" , "golf" , "rowing" , "wrestling" , "volleyball" , "hockey" , "boxing" , "triathlon" , "athletics" , "basketball" , "sailing" .
+
+<http://www.olympics.org#21_bold>
+        <http://www.olympics.org#stream>
+                "archery" .
+
+<http://www.olympics.org#sony_20>
+        <http://www.olympics.org#stream>
+                "hockey" .
+
+<http://www.olympics.org#18_bold>
+        <http://www.olympics.org#stream>
+                "canada_sportoe" .
+
+<http://www.olympics.org#sony_18>
+        <http://www.olympics.org#stream>
+                "shooting" .
+
+<http://www.olympics.org#match_tv>
+        <http://www.olympics.org#stream>
+                "handball" , "cycling" , "athletics" , "boxing" , "judo" , "hockey" , "rowing" , "volleyball" , "wrestling" , "football" .
+
+<http://www.olympics.org#17_bold>
+        <http://www.olympics.org#stream>
+                "aquatics" .
+
+<http://www.olympics.org#sony_7>
+        <http://www.olympics.org#stream>
+                "volleyball" .
+
+<http://www.olympics.org#sony_12>
+        <http://www.olympics.org#stream>
+                "badminton" .
+
+<http://www.olympics.org#23_bold>
+        <http://www.olympics.org#stream>
+                "wrestling" .
+
+<http://www.olympics.org#sony_17>
+        <http://www.olympics.org#stream>
+                "boxing" .
+
+<http://www.olympics.org#26_bold>
+        <http://www.olympics.org#stream>
+                "weightlifting" .
+
+<http://www.olympics.org#tv3_sport>
+        <http://www.olympics.org#stream>
+                "canada_sportoe" , "shooting" , "boxing" , "table_tennis" , "hockey" , "football" , "sailing" , "volleyball" , "aquatics" , "athletics" .
+
+<http://www.olympics.org#19_bold>
+        <http://www.olympics.org#stream>
+                "golf" .
+
+<http://www.olympics.org#sony_6>
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#25_bold>
+        <http://www.olympics.org#stream>
+                "athletics" .
+
+<http://www.olympics.org#sony_11>
+        <http://www.olympics.org#stream>
+                "shooting" .

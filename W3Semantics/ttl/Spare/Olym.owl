@@ -1,0 +1,1114 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.olympics.org#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     ontologyIRI="http://www.olympics.org#"
+     versionIRI="http://www.olympics.org#">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Aquatics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Archery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Athlete"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Athletics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Audience"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Badminton"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Basketball"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Boxing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Broadcasing_Services"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bronze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cabel_Broadcasting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Canoe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Coach"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Country"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cycling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ESPN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Equestrian"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Football"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gold"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Golf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gymnastics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Handball"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hockey"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hotstar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IFs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IOC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Judo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Live_audience"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Medal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Modern_pentathlon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NBC_Universal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NOCs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OCOG"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Olympic_aquatic_centre"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Olympic_indoor_stadium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Olympic_outdoor_stadium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Organization"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Organizer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Person"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rowing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rugby_sevens"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sailing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shooting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Silver"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sport"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Star_sports"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Table_tennis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Taekwondo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tennis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Triathlon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Venue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Volleyball"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Web_Broadcasting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Web_audience"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Weightlifting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wrestling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Youtube"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Plays"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Plays_for"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Watch"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Watch_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Watch_through"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Wins"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#run_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#runs"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#stream"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Address"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_DOB"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Descipline"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Firstname"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Gender"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Height"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Id"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Lastname"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_Nationality"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_weight"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Aquatics"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Archery"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Athlete"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Athletics"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Audience"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Badminton"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Basketball"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boxing"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bronze"/>
+        <Class IRI="#Medal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cabel_Broadcasting"/>
+        <Class IRI="#Web_Broadcasting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Canoe"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Coach"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cycling"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ESPN"/>
+        <Class IRI="#Cabel_Broadcasting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Equestrian"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fencing"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Football"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gold"/>
+        <Class IRI="#Medal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Golf"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gymnastics"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Handball"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hockey"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hotstar"/>
+        <Class IRI="#Web_Broadcasting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IFs"/>
+        <Class IRI="#Organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IOC"/>
+        <Class IRI="#Organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Judo"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Live_audience"/>
+        <Class IRI="#Audience"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Modern_pentathlon"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NBC_Universal"/>
+        <Class IRI="#Cabel_Broadcasting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NOCs"/>
+        <Class IRI="#Organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OCOG"/>
+        <Class IRI="#Organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Olympic_aquatic_centre"/>
+        <Class IRI="#Venue"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Olympic_indoor_stadium"/>
+        <Class IRI="#Venue"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Olympic_outdoor_stadium"/>
+        <Class IRI="#Venue"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Organizer"/>
+        <Class IRI="#Person"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rowing"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rugby_sevens"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sailing"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shooting"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Silver"/>
+        <Class IRI="#Medal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Star_sports"/>
+        <Class IRI="#Cabel_Broadcasting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Table_tennis"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Taekwondo"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tennis"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Triathlon"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Volleyball"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Web_Broadcasting"/>
+        <Class IRI="#Broadcasing_Services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Web_audience"/>
+        <Class IRI="#Audience"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Weightlifting"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wrestling"/>
+        <Class IRI="#Sport"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Youtube"/>
+        <Class IRI="#Web_Broadcasting"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Bronze"/>
+        <Class IRI="#Gold"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Bronze"/>
+        <Class IRI="#Silver"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Gold"/>
+        <Class IRI="#Silver"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Live_audience"/>
+        <Class IRI="#Web_audience"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Watch_in"/>
+        <ObjectProperty IRI="#Watch"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Watch_through"/>
+        <ObjectProperty IRI="#Watch"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#runs"/>
+        <ObjectProperty IRI="#run_by"/>
+    </InverseObjectProperties>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#has"/>
+    </SymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Plays"/>
+        <Class IRI="#Athlete"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Plays_for"/>
+        <Class IRI="#Athlete"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Watch"/>
+        <Class IRI="#Audience"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Watch_in"/>
+        <Class IRI="#Live_audience"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Watch_through"/>
+        <Class IRI="#Web_audience"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Wins"/>
+        <Class IRI="#Athlete"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has"/>
+        <Class IRI="#Athlete"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#run_by"/>
+        <Class IRI="#Organization"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#runs"/>
+        <Class IRI="#Organizer"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#stream"/>
+        <Class IRI="#Broadcasing_Services"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Plays"/>
+        <Class IRI="#Sport"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Plays_for"/>
+        <Class IRI="#Country"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Watch"/>
+        <Class IRI="#Sport"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Watch_in"/>
+        <Class IRI="#Venue"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Watch_through"/>
+        <Class IRI="#Broadcasing_Services"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Wins"/>
+        <Class IRI="#Medal"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has"/>
+        <Class IRI="#Coach"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#run_by"/>
+        <Class IRI="#Organizer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#runs"/>
+        <Class IRI="#Organization"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#stream"/>
+        <Class IRI="#Sport"/>
+    </ObjectPropertyRange>
+    <DisjointObjectProperties>
+        <ObjectProperty IRI="#Watch_in"/>
+        <ObjectProperty IRI="#Watch_through"/>
+    </DisjointObjectProperties>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Address"/>
+        <Class IRI="#Venue"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_DOB"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Descipline"/>
+        <Class IRI="#Sport"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Firstname"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Firstname"/>
+        <Class IRI="#Coach"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Firstname"/>
+        <Class IRI="#Organizer"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Gender"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Height"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Id"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Id"/>
+        <Class IRI="#Sport"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Lastname"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Lastname"/>
+        <Class IRI="#Coach"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Lastname"/>
+        <Class IRI="#Organizer"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_Nationality"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_weight"/>
+        <Class IRI="#Athlete"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Address"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_DOB"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Descipline"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Firstname"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Gender"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Height"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Id"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Lastname"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_Nationality"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#has_weight"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Athlete</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">A person who is skilled in sports</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Athlete</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">A sports person</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Audience</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Group of viewers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Audience</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Audience</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Broadcasing_Services</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">An online and cable servies to stream content</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Broadcasing_Services</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Broadcasting Services</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Bronze</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Third prize</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Bronze</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Bronze</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Cabel_Broadcasting</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The offline cable service that a person can use to stream content through channels</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Cabel_Broadcasting</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Cabel Broadcasting</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Coach</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Trainer of the athlete</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Coach</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Coach</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Country</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The country that is participating in the Olympic event.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Country</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Country</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Gold</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">First prize</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Gold</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Gold Medal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IFs</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">the International Federations</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#IOC</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">International Olympic Committee</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Live_audience</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Audience who directly visits venue to watch the Olympic sport</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Live_audience</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Live Audience</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Medal</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Based on the position of the victory a medal is felicitated to the winner</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Medal</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Medal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#NOCs</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">National Olympic Committees</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#OCOG</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral"> the Organising Committee for the Olympic Games</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Olympic_aquatic_centre</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Aquatic sport events are performend here.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Olympic_aquatic_centre</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Olympic auatic center</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Olympic_indoor_stadium</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Indoor sports are performed here</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Olympic_indoor_stadium</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Olympic indoor stadium</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Olympic_outdoor_stadium</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Outdoor sports are conducted here</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Olympic_outdoor_stadium</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Olympic outdoor stadium</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Organization</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The organized body of people with a particular purpose</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Organization</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Organization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Organizer</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">the person who runs the organization.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Organizer</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Organizer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Person</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">A human being regarded as individual.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Person</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Person</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Plays</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete Plays Sport</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Plays</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Plays
+</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Plays_for</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete Plays for Country</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Plays_for</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Plays for</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Silver</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Second Prize</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Silver</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Silver</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Sport</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The activity involving physical excertion and skill.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Sport</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Sport</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Venue</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">The place where the event takes place.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Venue</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Venue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Watch</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Audience Watch Sport</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Watch</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Watch</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Watch_in</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Live audience Watch in Venue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Watch_in</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Watch in</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Watch_through</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Web audience Watch through Broadcasting Services</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Watch_through</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Watch_Through</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Web_Broadcasting</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">An online platform to stream content.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Web_Broadcasting</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Web Boardcasting</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Web_audience</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Audience who watch olympics on web</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Web_audience</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Web Audience</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#Wins</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete Wins Medal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#Wins</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Wins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has Coach</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Address</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Venue has Address</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Address</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Address</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has_DOB</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has DOB</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_DOB</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has DOB</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Descipline</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Sport has Decipline</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Descipline</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Descipline</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has_Firstname</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has Firstname</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Firstname</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Firstname</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has_Gender</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has Gender</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Gender</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Gender</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has_Height</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has Height</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Height</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Height</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has_Id</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete,Sport has Id</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Id</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Id</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Lastname</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has Lastname</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Lastname</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Lastname</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has_Nationality</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has Nationality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_Nationality</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has Nationality</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#has_weight</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Athlete has weight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#has_weight</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">has weight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#run_by</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Organization Run by Organizers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#run_by</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">run by</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#runs</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">organizer runs Organization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#runs</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">runs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#stream</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Broadcasting Services stream sports</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#stream</IRI>
+        <Literal datatypeIRI="&rdf;PlainLiteral">stream</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

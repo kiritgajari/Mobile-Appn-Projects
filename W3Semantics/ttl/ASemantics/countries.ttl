@@ -1,0 +1,599 @@
+<http://gk.org/property/Hungary>
+        <http://gk.org/property/code>  "HUN" .
+
+<http://gk.org/property/Switzerland>
+        <http://gk.org/property/code>  "SUI" .
+
+<http://gk.org/property/Iraq>
+        <http://gk.org/property/code>  "IRQ" .
+
+<http://gk.org/property/Suriname>
+        <http://gk.org/property/code>  "SUR" .
+
+<http://gk.org/property/Guinea>
+        <http://gk.org/property/code>  "GUI" .
+
+<http://gk.org/property/Sao Tome and Principe>
+        <http://gk.org/property/code>  "STP" .
+
+<http://gk.org/property/Luxembourg>
+        <http://gk.org/property/code>  "LUX" .
+
+<http://gk.org/property/Hong Kong*>
+        <http://gk.org/property/code>  "HKG" .
+
+<http://gk.org/property/Norway>
+        <http://gk.org/property/code>  "NOR" .
+
+<http://gk.org/property/Mauritius>
+        <http://gk.org/property/code>  "MRI" .
+
+<http://gk.org/property/Fiji>
+        <http://gk.org/property/code>  "FIJ" .
+
+<http://gk.org/property/Bolivia>
+        <http://gk.org/property/code>  "BOL" .
+
+<http://gk.org/property/Barbados>
+        <http://gk.org/property/code>  "BAR" .
+
+<http://gk.org/property/Croatia>
+        <http://gk.org/property/code>  "CRO" .
+
+<http://gk.org/property/Mongolia>
+        <http://gk.org/property/code>  "MGL" .
+
+<http://gk.org/property/Italy>
+        <http://gk.org/property/code>  "ITA" .
+
+<http://gk.org/property/Sweden>
+        <http://gk.org/property/code>  "SWE" .
+
+<http://gk.org/property/Mali>
+        <http://gk.org/property/code>  "MLI" .
+
+<http://gk.org/property/Romania>
+        <http://gk.org/property/code>  "ROM" .
+
+<http://gk.org/property/Costa Rica>
+        <http://gk.org/property/code>  "CRC" .
+
+<http://gk.org/property/United Arab Emirates>
+        <http://gk.org/property/code>  "UAE" .
+
+<http://gk.org/property/Andorra>
+        <http://gk.org/property/code>  "AND" .
+
+<http://gk.org/property/Mauritania>
+        <http://gk.org/property/code>  "MTN" .
+
+<http://gk.org/property/Greece>
+        <http://gk.org/property/code>  "GRE" .
+
+<http://gk.org/property/Eritrea>
+        <http://gk.org/property/code>  "ERI" .
+
+<http://gk.org/property/Belgium>
+        <http://gk.org/property/code>  "BEL" .
+
+<http://gk.org/property/Bahrain>
+        <http://gk.org/property/code>  "BRN" .
+
+<http://gk.org/property/Palau>
+        <http://gk.org/property/code>  "PLW" .
+
+<http://gk.org/property/Iceland>
+        <http://gk.org/property/code>  "ISL" .
+
+<http://gk.org/property/Jamaica>
+        <http://gk.org/property/code>  "JAM" .
+
+<http://gk.org/property/Georgia>
+        <http://gk.org/property/code>  "GEO" .
+
+<http://gk.org/property/Cape Verde>
+        <http://gk.org/property/code>  "CPV" .
+
+<http://gk.org/property/Togo>
+        <http://gk.org/property/code>  "TOG" .
+
+<http://gk.org/property/Belize>
+        <http://gk.org/property/code>  "BIZ" .
+
+<http://gk.org/property/Cook Islands>
+        <http://gk.org/property/code>  "COK" .
+
+<http://gk.org/property/Vietnam>
+        <http://gk.org/property/code>  "VIE" .
+
+<http://gk.org/property/Macedonia>
+        <http://gk.org/property/code>  "MKD" .
+
+<http://gk.org/property/Netherlands>
+        <http://gk.org/property/code>  "NED" .
+
+<http://gk.org/property/Swaziland>
+        <http://gk.org/property/code>  "SWZ" .
+
+<http://gk.org/property/Poland>
+        <http://gk.org/property/code>  "POL" .
+
+<http://gk.org/property/Guam>
+        <http://gk.org/property/code>  "GUM" .
+
+<http://gk.org/property/Armenia>
+        <http://gk.org/property/code>  "ARM" .
+
+<http://gk.org/property/France>
+        <http://gk.org/property/code>  "FRA" .
+
+<http://gk.org/property/Syria>
+        <http://gk.org/property/code>  "SYR" .
+
+<http://gk.org/property/Libya>
+        <http://gk.org/property/code>  "LBA" .
+
+<http://gk.org/property/Cambodia>
+        <http://gk.org/property/code>  "CAM" .
+
+<http://gk.org/property/American Samoa*>
+        <http://gk.org/property/code>  "ASA" .
+
+<http://gk.org/property/Congo>
+        <http://gk.org/property/code>  "CGO" .
+
+<http://gk.org/property/South Africa>
+        <http://gk.org/property/code>  "RSA" .
+
+<http://gk.org/property/Thailand>
+        <http://gk.org/property/code>  "THA" .
+
+<http://gk.org/property/Egypt>
+        <http://gk.org/property/code>  "EGY" .
+
+<http://gk.org/property/Monaco>
+        <http://gk.org/property/code>  "MON" .
+
+<http://gk.org/property/El Salvador>
+        <http://gk.org/property/code>  "ESA" .
+
+<http://gk.org/property/Sri Lanka>
+        <http://gk.org/property/code>  "SRI" .
+
+<http://gk.org/property/Saint Kitts and Nevis>
+        <http://gk.org/property/code>  "SKN" .
+
+<http://gk.org/property/Bahamas>
+        <http://gk.org/property/code>  "BAH" .
+
+<http://gk.org/property/Tajikistan>
+        <http://gk.org/property/code>  "TJK" .
+
+<http://gk.org/property/Estonia>
+        <http://gk.org/property/code>  "EST" .
+
+<http://gk.org/property/Afghanistan>
+        <http://gk.org/property/code>  "AFG" .
+
+<http://gk.org/property/Vanuatu>
+        <http://gk.org/property/code>  "VAN" .
+
+<http://gk.org/property/Yemen>
+        <http://gk.org/property/code>  "YEM" .
+
+<http://gk.org/property/Central African Republic>
+        <http://gk.org/property/code>  "CAF" .
+
+<http://gk.org/property/Mexico>
+        <http://gk.org/property/code>  "MEX" .
+
+<http://gk.org/property/Uganda>
+        <http://gk.org/property/code>  "UGA" .
+
+<http://gk.org/property/Qatar>
+        <http://gk.org/property/code>  "QAT" .
+
+<http://gk.org/property/East Timor (Timor-Leste)>
+        <http://gk.org/property/code>  "TLS" .
+
+<http://gk.org/property/Aruba*>
+        <http://gk.org/property/code>  "ARU" .
+
+<http://gk.org/property/Bangladesh>
+        <http://gk.org/property/code>  "BAN" .
+
+<http://gk.org/property/Chile>
+        <http://gk.org/property/code>  "CHI" .
+
+<http://gk.org/property/Azerbaijan>
+        <http://gk.org/property/code>  "AZE" .
+
+<http://gk.org/property/Benin>
+        <http://gk.org/property/code>  "BEN" .
+
+<http://gk.org/property/Saudi Arabia>
+        <http://gk.org/property/code>  "KSA" .
+
+<http://gk.org/property/British Virgin Islands>
+        <http://gk.org/property/code>  "IVB" .
+
+<http://gk.org/property/Gambia>
+        <http://gk.org/property/code>  "GAM" .
+
+<http://gk.org/property/Seychelles>
+        <http://gk.org/property/code>  "SEY" .
+
+<http://gk.org/property/Cuba>
+        <http://gk.org/property/code>  "CUB" .
+
+<http://gk.org/property/Paraguay>
+        <http://gk.org/property/code>  "PAR" .
+
+<http://gk.org/property/Solomon Islands>
+        <http://gk.org/property/code>  "SOL" .
+
+<http://gk.org/property/Kyrgyzstan>
+        <http://gk.org/property/code>  "KGZ" .
+
+<http://gk.org/property/Ghana>
+        <http://gk.org/property/code>  "GHA" .
+
+<http://gk.org/property/Grenada>
+        <http://gk.org/property/code>  "GRN" .
+
+<http://gk.org/property/Netherlands Antilles*>
+        <http://gk.org/property/code>  "AHO" .
+
+<http://gk.org/property/Djibouti>
+        <http://gk.org/property/code>  "DJI" .
+
+<http://gk.org/property/Jordan>
+        <http://gk.org/property/code>  "JOR" .
+
+<http://gk.org/property/Rwanda>
+        <http://gk.org/property/code>  "RWA" .
+
+<http://gk.org/property/China>
+        <http://gk.org/property/code>  "CHN" .
+
+<http://gk.org/property/"Korea>
+        <http://gk.org/property/code>  " South\"" , " North\"" .
+
+<http://gk.org/property/Chad>
+        <http://gk.org/property/code>  "CHA" .
+
+<http://gk.org/property/Finland>
+        <http://gk.org/property/code>  "FIN" .
+
+<http://gk.org/property/Sierra Leone>
+        <http://gk.org/property/code>  "SLE" .
+
+<http://gk.org/property/Comoros>
+        <http://gk.org/property/code>  "COM" .
+
+<http://gk.org/property/Honduras>
+        <http://gk.org/property/code>  "HON" .
+
+<http://gk.org/property/Burkina Faso>
+        <http://gk.org/property/code>  "BUR" .
+
+<http://gk.org/property/Israel>
+        <http://gk.org/property/code>  "ISR" .
+
+<http://gk.org/property/Zambia>
+        <http://gk.org/property/code>  "ZAM" .
+
+<http://gk.org/property/Antigua and Barbuda>
+        <http://gk.org/property/code>  "ANT" .
+
+<http://gk.org/property/"Congo>
+        <http://gk.org/property/code>  " Dem Rep\"" .
+
+<http://gk.org/property/Dominican Republic>
+        <http://gk.org/property/code>  "DOM" .
+
+<http://gk.org/property/Virgin Islands*>
+        <http://gk.org/property/code>  "ISV" .
+
+<http://gk.org/property/Denmark>
+        <http://gk.org/property/code>  "DEN" .
+
+<http://gk.org/property/Namibia>
+        <http://gk.org/property/code>  "NAM" .
+
+<http://gk.org/property/Australia>
+        <http://gk.org/property/code>  "AUS" .
+
+<http://gk.org/property/Niger>
+        <http://gk.org/property/code>  "NIG" .
+
+<http://gk.org/property/Equatorial Guinea>
+        <http://gk.org/property/code>  "GEQ" .
+
+<http://gk.org/property/Peru>
+        <http://gk.org/property/code>  "PER" .
+
+<http://gk.org/property/Austria>
+        <http://gk.org/property/code>  "AUT" .
+
+<http://gk.org/property/United States>
+        <http://gk.org/property/code>  "USA" .
+
+<http://gk.org/property/Turkey>
+        <http://gk.org/property/code>  "TUR" .
+
+<http://gk.org/property/Liechtenstein>
+        <http://gk.org/property/code>  "LIE" .
+
+<http://gk.org/property/Bhutan>
+        <http://gk.org/property/code>  "BHU" .
+
+<http://gk.org/property/Liberia>
+        <http://gk.org/property/code>  "LBR" .
+
+<http://gk.org/property/Cyprus>
+        <http://gk.org/property/code>  "CYP" .
+
+<http://gk.org/property/Ukraine>
+        <http://gk.org/property/code>  "UKR" .
+
+<http://gk.org/property/Guatemala>
+        <http://gk.org/property/code>  "GUA" .
+
+<http://gk.org/property/Tunisia>
+        <http://gk.org/property/code>  "TUN" .
+
+<http://gk.org/property/Trinidad and Tobago>
+        <http://gk.org/property/code>  "TRI" .
+
+<http://gk.org/property/Indonesia>
+        <http://gk.org/property/code>  "INA" .
+
+<http://gk.org/property/Nepal>
+        <http://gk.org/property/code>  "NEP" .
+
+<http://gk.org/property/Dominica>
+        <http://gk.org/property/code>  "DMA" .
+
+<http://gk.org/property/Senegal>
+        <http://gk.org/property/code>  "SEN" .
+
+<http://gk.org/property/Malawi>
+        <http://gk.org/property/code>  "MAW" .
+
+<http://gk.org/property/Haiti>
+        <http://gk.org/property/code>  "HAI" .
+
+<http://gk.org/property/Japan>
+        <http://gk.org/property/code>  "JPN" .
+
+<http://gk.org/property/Lebanon>
+        <http://gk.org/property/code>  "LIB" .
+
+<http://gk.org/property/Portugal>
+        <http://gk.org/property/code>  "POR" .
+
+<http://gk.org/property/Morocco>
+        <http://gk.org/property/code>  "MAR" .
+
+<http://gk.org/property/Gabon>
+        <http://gk.org/property/code>  "GAB" .
+
+<http://gk.org/property/Burma>
+        <http://gk.org/property/code>  "MYA" .
+
+<http://gk.org/property/Bulgaria>
+        <http://gk.org/property/code>  "BUL" .
+
+<http://gk.org/property/Slovenia>
+        <http://gk.org/property/code>  "SLO" .
+
+<http://gk.org/property/Cote d'Ivoire>
+        <http://gk.org/property/code>  "CIV" .
+
+<http://gk.org/property/Micronesia>
+        <http://gk.org/property/code>  "FSM" .
+
+<http://gk.org/property/Singapore>
+        <http://gk.org/property/code>  "SIN" .
+
+<http://gk.org/property/Laos>
+        <http://gk.org/property/code>  "LAO" .
+
+<http://gk.org/property/India>
+        <http://gk.org/property/code>  "IND" .
+
+<http://gk.org/property/Oman>
+        <http://gk.org/property/code>  "OMA" .
+
+<http://gk.org/property/Cameroon>
+        <http://gk.org/property/code>  "CMR" .
+
+<http://gk.org/property/Ethiopia>
+        <http://gk.org/property/code>  "ETH" .
+
+<http://gk.org/property/Bermuda*>
+        <http://gk.org/property/code>  "BER" .
+
+<http://gk.org/property/Maldives>
+        <http://gk.org/property/code>  "MDV" .
+
+<http://gk.org/property/Botswana>
+        <http://gk.org/property/code>  "BOT" .
+
+<http://gk.org/property/Nicaragua>
+        <http://gk.org/property/code>  "NCA" .
+
+<http://gk.org/property/Burundi>
+        <http://gk.org/property/code>  "BDI" .
+
+<http://gk.org/property/Tonga>
+        <http://gk.org/property/code>  "TGA" .
+
+<http://gk.org/property/Moldova>
+        <http://gk.org/property/code>  "MDA" .
+
+<http://gk.org/property/Pakistan>
+        <http://gk.org/property/code>  "PAK" .
+
+<http://gk.org/property/Angola>
+        <http://gk.org/property/code>  "ANG" .
+
+<http://gk.org/property/Belarus>
+        <http://gk.org/property/code>  "BLR" .
+
+<http://gk.org/property/Uzbekistan>
+        <http://gk.org/property/code>  "UZB" .
+
+<http://gk.org/property/Czech Republic>
+        <http://gk.org/property/code>  "CZE" .
+
+<http://gk.org/property/Kenya>
+        <http://gk.org/property/code>  "KEN" .
+
+<http://gk.org/property/Cayman Islands*>
+        <http://gk.org/property/code>  "CAY" .
+
+<http://gk.org/property/Zimbabwe>
+        <http://gk.org/property/code>  "ZIM" .
+
+<http://gk.org/property/Turkmenistan>
+        <http://gk.org/property/code>  "TKM" .
+
+<http://gk.org/property/Colombia>
+        <http://gk.org/property/code>  "COL" .
+
+<http://gk.org/property/Somalia>
+        <http://gk.org/property/code>  "SOM" .
+
+<http://gk.org/property/Saint Lucia>
+        <http://gk.org/property/code>  "LCA" .
+
+<http://gk.org/property/Papua New Guinea>
+        <http://gk.org/property/code>  "PNG" .
+
+<http://gk.org/property/Panama>
+        <http://gk.org/property/code>  "PAN" .
+
+<http://gk.org/property/Nauru>
+        <http://gk.org/property/code>  "NRU" .
+
+<http://gk.org/property/Philippines>
+        <http://gk.org/property/code>  "PHI" .
+
+<http://gk.org/property/Venezuela>
+        <http://gk.org/property/code>  "VEN" .
+
+<http://gk.org/property/Algeria>
+        <http://gk.org/property/code>  "ALG" .
+
+<http://gk.org/property/Ireland>
+        <http://gk.org/property/code>  "IRL" .
+
+<http://gk.org/property/Bosnia and Herzegovina>
+        <http://gk.org/property/code>  "BIH" .
+
+<http://gk.org/property/Guinea-Bissau>
+        <http://gk.org/property/code>  "GBS" .
+
+<http://gk.org/property/Albania>
+        <http://gk.org/property/code>  "ALB" .
+
+<http://gk.org/property/Taiwan>
+        <http://gk.org/property/code>  "TPE" .
+
+<http://gk.org/property/Sudan>
+        <http://gk.org/property/code>  "SUD" .
+
+<http://gk.org/property/Kuwait>
+        <http://gk.org/property/code>  "KUW" .
+
+<http://gk.org/property/"Palestine>
+        <http://gk.org/property/code>  " Occupied Territories\"" .
+
+<http://gk.org/property/Kazakhstan>
+        <http://gk.org/property/code>  "KAZ" .
+
+<http://gk.org/property/Iran>
+        <http://gk.org/property/code>  "IRI" .
+
+<http://gk.org/property/Mozambique>
+        <http://gk.org/property/code>  "MOZ" .
+
+<http://gk.org/property/Samoa>
+        <http://gk.org/property/code>  "SAM" .
+
+<http://gk.org/property/Argentina>
+        <http://gk.org/property/code>  "ARG" .
+
+<http://gk.org/property/Lesotho>
+        <http://gk.org/property/code>  "LES" .
+
+<http://gk.org/property/Brunei>
+        <http://gk.org/property/code>  "BRU" .
+
+<http://gk.org/property/Nigeria>
+        <http://gk.org/property/code>  "NGR" .
+
+<http://gk.org/property/Madagascar>
+        <http://gk.org/property/code>  "MAD" .
+
+<http://gk.org/property/New Zealand>
+        <http://gk.org/property/code>  "NZL" .
+
+<http://gk.org/property/Uruguay>
+        <http://gk.org/property/code>  "URU" .
+
+<http://gk.org/property/Serbia>
+        <http://gk.org/property/code>  "SCG" .
+
+<http://gk.org/property/Ecuador>
+        <http://gk.org/property/code>  "ECU" .
+
+<http://gk.org/property/Puerto Rico*>
+        <http://gk.org/property/code>  "PUR" .
+
+<http://gk.org/property/Latvia>
+        <http://gk.org/property/code>  "LAT" .
+
+<http://gk.org/property/Malta>
+        <http://gk.org/property/code>  "MLT" .
+
+<http://gk.org/property/Lithuania>
+        <http://gk.org/property/code>  "LTU" .
+
+<http://gk.org/property/Tanzania>
+        <http://gk.org/property/code>  "TAN" .
+
+<http://gk.org/property/Guyana>
+        <http://gk.org/property/code>  "GUY" .
+
+<http://gk.org/property/Malaysia>
+        <http://gk.org/property/code>  "MAS" .
+
+<http://gk.org/property/San Marino>
+        <http://gk.org/property/code>  "SMR" .
+
+<http://gk.org/property/Russia>
+        <http://gk.org/property/code>  "RUS" .
+
+<http://gk.org/property/Canada>
+        <http://gk.org/property/code>  "CAN" .
+
+<http://gk.org/property/United Kingdom>
+        <http://gk.org/property/code>  "GBR" .
+
+<http://gk.org/property/Germany>
+        <http://gk.org/property/code>  "GER" .
+
+<http://gk.org/property/Spain>
+        <http://gk.org/property/code>  "ESP" .
+
+<http://gk.org/property/Saint Vincent and the Grenadines>
+        <http://gk.org/property/code>  "VIN" .
+
+<http://gk.org/property/Slovakia>
+        <http://gk.org/property/code>  "SVK" .
+
+<http://gk.org/property/Brazil>
+        <http://gk.org/property/code>  "BRA" .

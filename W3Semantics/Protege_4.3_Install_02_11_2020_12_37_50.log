@@ -1,0 +1,112 @@
+__________________________________________________________________________
+
+Tue Feb 11 12:37:50 EST 2020
+
+Free Memory: 3844 kB
+Total Memory: 15872 kB
+
+java.class.path:
+    C:\Users\19376\AppData\Local\Temp\I1581442195\InstallerData\IAClasses.zip
+    C:\Users\19376\AppData\Local\Temp\I1581442195\InstallerData\Execute.zip
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\InstallerData\Execute.zip
+    C:\Users\19376\AppData\Local\Temp\I1581442195\InstallerData\Resource1.zip
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\InstallerData\Resource1.zip
+    C:\Users\19376\AppData\Local\Temp\I1581442195\InstallerData
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\19376\AppData\Local\Temp\I1581442195\InstallerData\IAClasses.zip
+    C:\Users\19376\AppData\Local\Temp\I1581442195\InstallerData\Execute.zip
+    C:\Users\19376\AppData\Local\Temp\I1581442195\InstallerData
+
+sun.boot.class.path:
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\resources.jar
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\rt.jar
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\jsse.jar
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\jce.jar
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\charsets.jar
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\modules\jdk.boot.jar
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre\lib\ext
+    C:\windows\Sun\Java\lib\ext
+
+java.version                  == 1.6.0_26 (Java 1)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 20.1-b02
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.6
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 50.0
+java.compiler                 == null
+java.home                     == C:\Users\19376\AppData\Local\Temp\I1581442195\Windows\resource\jre
+java.io.tmpdir                == C:\Users\19376\AppData\Local\Temp\
+os.name                       == Windows NT (unknown)
+os.arch                       == x86
+os.version                    == 6.2
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1252
+user.name                     == 19376
+user.home                     == C:\Users\19376
+user.dir                      == C:\Users\19376\AppData\Local\Temp\I1581442195\Windows
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+Installed Feature(s) Typical of Protege 4.3
+
+Install Begin: FEBRUARY 11, 2020 12:29:59 PM EST
+Install End: FEBRUARY 11, 2020 12:29:59 PM EST
+
+Installed by InstallAnywhere 14.0 Enterprise Build 4390
+
+INSTALLATION WAS CANCELLED BY USER DURING PRE-INSTALLATION
+
+User Interactions
+-----------------
+
+
+#Choose Install Folder
+#---------------------
+USER_INSTALL_DIR=C:\\Program Files (x86)\\Protege_4.3
+
+#Choose Shortcut Folder
+#----------------------
+USER_SHORTCUTS=C:\\Users\\19376\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Protege_4.3
+
+#Choose Java Virtual Machine
+#---------------------------
+JDK_HOME=
+JAVA_DOT_HOME=$USER_INSTALL_DIR$$/$jre
+JAVA_EXECUTABLE=C:\\Program Files (x86)\\Protege_4.3\\jre\\bin\\java.exe
+
+Summary
+-------
+
+Installation:  Cancelled during pre-install.
+
+1 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Check Disk Space:         C:\Program Files (x86)\Protege_4.3
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 116,367,387; Free Disk Space: 428,325,306,368
+
+INSTALLATION WAS CANCELLED BY USER DURING PRE-INSTALLATION
