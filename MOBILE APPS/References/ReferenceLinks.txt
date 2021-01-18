@@ -1,0 +1,9 @@
+https://docs.oracle.com/javase/tutorial/java/concepts/index.html
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html
+https://docs.oracle.com/javase/tutorial/java/javaOO/index.html
+https://docs.oracle.com/javase/tutorial/java/IandI/index.html
+https://docs.oracle.com/javase/tutorial/java/data/index.html
+https://docs.oracle.com/javase/tutorial/java/generics/index.html
+https://docs.oracle.com/javase/tutorial/java/package/index.html
+https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+https://docs.oracle.com/javase/tutorial/essential/io/streams.html

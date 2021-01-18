@@ -1,0 +1,3 @@
+https://bookshelf.vitalsource.com/#/user/signin
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+https://developer.android.com/studio
